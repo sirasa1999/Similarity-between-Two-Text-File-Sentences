@@ -1,0 +1,2002 @@
+id,qid1,qid2,sentence1,sentence2,is_duplicate
+0,1,2,A plane is taking off.,An air plane is taking off.,1
+1,3,4,A man is playing a large flute.,A man is playing a flute.,1
+2,5,6,A man is spreading shreded cheese on a pizza.,A man is spreading shredded cheese on an uncooked pizza.,1
+3,7,8,Three men are playing chess.,Two men are playing chess.,1
+4,9,10,A man is playing the cello.,A man seated is playing the cello.,1
+5,11,12,Some men are fighting.,Two men are fighting.,1
+6,13,14,A man is smoking.,A man is skating.,0
+7,15,16,The man is playing the piano.,The man is playing the guitar.,0
+8,17,18,A man is playing on a guitar and singing.,A woman is playing an acoustic guitar and singing.,1
+9,19,20,A person is throwing a cat on to the ceiling.,A person throws a cat on the ceiling.,1
+10,21,22,The man hit the other man with a stick.,The man spanked the other man with a stick.,1
+11,23,24,A woman picks up and holds a baby kangaroo.,A woman picks up and holds a baby kangaroo in her arms.,1
+12,25,26,A man is playing a flute.,A man is playing a bamboo flute.,1
+13,27,28,A person is folding a piece of paper.,Someone is folding a piece of paper.,1
+14,29,30,A man is running on the road.,A panda dog is running on the road.,0
+15,31,32,A dog is trying to get bacon off his back.,A dog is trying to eat the bacon on its back.,1
+16,33,34,The polar bear is sliding on the snow.,A polar bear is sliding across the snow.,1
+17,35,36,A woman is writing.,A woman is swimming.,0
+18,37,38,A cat is rubbing against baby's face.,A cat is rubbing against a baby.,1
+19,39,40,The man is riding a horse.,A man is riding on a horse.,1
+20,41,42,A man pours oil into a pot.,A man pours wine in a pot.,0
+21,43,44,A man is playing a guitar.,A girl is playing a guitar.,0
+22,45,46,A panda is sliding down a slide.,A panda slides down a slide.,1
+23,47,48,A woman is eating something.,A woman is eating meat.,1
+24,49,50,A woman peels a potato.,A woman is peeling a potato.,1
+25,51,52,The boy fell off his bike.,A boy falls off his bike.,1
+26,53,54,The woman is playing the flute.,A woman is playing a flute.,1
+27,55,56,A rabbit is running from an eagle.,A hare is running from a eagle.,1
+28,57,58,The woman is frying a breaded pork chop.,A woman is cooking a breaded pork chop.,1
+29,59,60,A girl is flying a kite.,A girl running is flying a kite.,1
+30,61,62,A man is riding a mechanical bull.,A man rode a mechanical bull.,1
+31,63,64,The man is playing the guitar.,A man is playing a guitar.,1
+32,65,66,A woman is dancing and singing with other women.,A woman is dancing and singing in the rain.,0
+33,67,68,A man is slicing a bun.,A man is slicing an onion.,0
+34,69,70,A man is pouring oil into a pan.,A man is pouring oil into a skillet.,1
+35,71,72,A lion is playing with people.,A lion is playing with two men.,1
+36,73,74,A dog rides a skateboard.,A dog is riding a skateboard.,1
+37,75,76,Someone is carving a statue.,A man is carving a statue.,1
+38,77,78,A woman is slicing an onion.,A man is cutting an onion.,0
+39,79,80,A woman peels shrimp.,A woman is peeling shrimp.,1
+40,81,82,A woman is frying fish.,A woman is cooking fish.,1
+41,83,84,A woman is playing an electric guitar.,A woman is playing a guitar.,1
+42,85,86,A baby tiger is playing with a ball.,A baby is playing with a doll.,0
+43,87,88,A person is slicing a tomato.,A person is slicing some meat.,0
+44,89,90,A person cuts an onion.,A person is cutting an onion.,1
+45,91,92,A man is playing the piano.,A woman is playing the violin.,0
+46,93,94,A woman is playing the flute.,A man is playing the guitar.,0
+47,95,96,A man is cutting up a potato.,A man is cutting up carrots.,0
+48,97,98,A kid is playing guitar.,A boy is playing a guitar.,1
+49,99,100,A boy is playing guitar.,A man is playing a guitar.,1
+50,101,102,A man is playing guitar.,A boy is playing a guitar.,1
+51,103,104,A little boy is playing a keyboard.,A boy is playing key board.,1
+52,105,106,A man is playing a guitar.,A man is playing an electric guitar.,1
+53,107,108,A dog licks a baby.,A dog is licking a baby.,1
+54,109,110,A woman is slicing an onion.,A man is cutting and onion.,0
+55,111,112,A man is playing the guitar.,A man is playing the drums.,0
+56,113,114,A woman is slicing a pepper.,A woman is cutting a red pepper.,1
+57,115,116,A man is playing the drums.,A man plays the drum.,1
+58,117,118,A woman rides a horse.,A woman is riding a horse.,1
+59,119,120,A man is eating a banana by a tree.,A man is eating a banana.,1
+60,121,122,A cat is playing a key board.,A man is playing two keyboards.,0
+61,123,124,A man chops down a tree with an axe.,A man cut a tree with an axe.,1
+62,125,126,A kid plays with a toy phone.,A little boy plays with a toy phone.,1
+63,127,128,A man is riding a motorcycle.,A man is riding a horse.,0
+64,129,130,A brown dog carrying a stick in its mouth.,A dog swimming with a stick in its mouth.,1
+65,131,132,A squirrel is spinning around in circles.,A squirrel runs around in circles.,1
+66,133,134,A man and a woman are kissing.,A man and woman kiss.,1
+67,135,136,A man is getting into a car.,A man is getting into a car in a garage.,1
+68,137,138,A man is dancing.,A man is talking.,0
+69,139,140,A man is playing the guitar and singing.,A man is playing the guitar.,1
+70,141,142,A person is cutting mushrooms.,A person is cutting mushrooms with a knife.,1
+71,143,144,A tiger cub is making a sound.,A tiger is walking around.,0
+72,145,146,A person is slicing onions.,A person is peeling an onion.,1
+73,147,148,A man is playing the piano.,A man is playing the trumpet.,0
+74,149,150,A woman is peeling a potato.,A woman is peeling an apple.,0
+75,151,152,A panda is eating bamboo.,A panda bear is eating some bamboo.,1
+76,153,154,A person is peeling an onion.,A person is peeling an eggplant.,0
+77,155,156,A monkey pushes another monkey.,The monkey pushed the other monkey.,1
+78,157,158,Scuba diver submerged in water.,The scuba diver is underwater.,1
+79,159,160,A man is tying his shoe.,A man ties his shoe.,1
+80,161,162,A boy is singing and playing the piano.,A boy is playing the piano.,1
+81,163,164,A dog is eating water melon.,A dog is eating a piece of watermelon.,1
+82,165,166,A woman is chopping broccoli.,A woman is chopping broccoli with a knife.,1
+83,167,168,A man is peeling a potato.,A man peeled a potatoe.,1
+84,169,170,A woman is playing a guitar.,A man plays a guitar.,0
+85,171,172,A woman is slicing tomato.,A man is slicing onion.,0
+86,173,174,A man swims underwater.,A woman is swimming underwater.,0
+87,175,176,A man and woman are talking.,A man and woman is eating.,0
+88,177,178,A small dog is chasing a yoga ball.,A dog is chasing a ball.,1
+89,179,180,The men are playing cricket.,The men are playing basketball.,0
+90,181,182,A man rides off on a motorcycle.,A man is riding on a motorcycle.,1
+91,183,184,A man is playing a guitar.,A man is singing and playing a guitar.,1
+92,185,186,The man talked on the telephone.,The man is talking on the phone.,1
+93,187,188,A man is fishing.,A man is exercising.,0
+94,189,190,A man is levitating.,A man is talking.,0
+95,191,192,Two boys are driving.,Two bays are dancing.,0
+96,193,194,A man is riding on a horse.,A girl is riding a horse.,0
+97,195,196,A man is riding a bicycle.,A monkey is riding a bike.,0
+98,197,198,A man is slicing potatoes.,A woman is peeling potato.,0
+99,199,200,A woman is peeling a potato.,A man is slicing potato.,0
+100,201,202,A man is playing a guitar.,Someone is playing guitar.,1
+101,203,204,A woman is slicing a leek.,A woman is slicing ginger.,1
+102,205,206,The man cut a paper plate.,A man is cutting a paper plate.,1
+103,207,208,The man is playing the guitar.,A man is playing the flute.,0
+104,209,210,A man is playing the piano.,The man is playing the violin.,0
+105,211,212,A woman is slicing up some meat.,A woman is breading some meat.,1
+106,213,214,A man is playing on his keyboard.,A man is playing a keyboard piano.,1
+107,215,216,The lady chopped up the green onions.,The lady cut up a green onion.,1
+108,217,218,Someone is sitring noodles in water.,A woman is boiling noodles in water.,1
+109,219,220,Lionel Richie is dancing on the ceiling.,Lionel Ritchie dances while standing on the ceiling.,1
+110,221,222,A man is playing a piano.,A person is playing the piano.,1
+111,223,224,A woman is playing flute.,A woman plays on a flute.,1
+112,225,226,A boy is checking a calender.,A boy is looking at a calendar.,1
+113,227,228,A woman is cutting an onion.,A woman is chopping onions.,1
+114,229,230,A man is playing guitar.,A man plays a guitar.,1
+115,231,232,A woman is using a sewing machine.,A woman is sewing on a machine.,1
+116,233,234,A woman is flipping pancakes.,A cartoon chef is flipping pancakes.,0
+117,235,236,A man is running on the road.,A car is driving down the road.,0
+118,237,238,A man is riding on a horse.,A man is talking on a phone.,0
+119,239,240,A man is riding a bike.,A man is riding on a horse.,0
+120,241,242,A woman is dancing.,A man is eating.,0
+121,243,244,A man is playing a piano.,A man is playing a flute.,0
+122,245,246,A man is playing a flute.,A man is playing a piano.,0
+123,247,248,A man is spinning.,A man is dancing.,1
+124,249,250,A monkey is swinging from limb to limb.,A monkey is swinging from tree to tree.,1
+125,251,252,The people got off the train.,The people got off the train at the station.,1
+126,253,254,A dog is jumping on a trampoline.,A dog bounces on a trampoline.,1
+127,255,256,A boy is playing an instrument.,A man is playing a trumpet.,1
+128,257,258,A woman plays the guitar.,A man sings and plays the guitar.,0
+129,259,260,A woman is picking a can.,A woman is slicing a tomato.,0
+130,261,262,A man is climbing a rope.,A man climbs up a rope.,1
+131,263,264,A man is lifting a car.,A man is climbing a wall.,0
+132,265,266,A man and woman are driving down the street in a jeep.,A man and woman are driving down the road in an open air vehicle.,1
+133,267,268,The shirtless man sat in a chair.,A shirtless man is sitting on a chair.,1
+134,269,270,Two women are wrestling.,Two women are wrestling on the floor.,1
+135,271,272,The puppy played with a blue tennis ball.,A puppy is playing with a tennis ball.,1
+136,273,274,A kangroo is eating something.,A kangaroo is eating.,1
+137,275,276,A cat is playing a piano.,A man is playing a guitar.,0
+138,277,278,The man cut some carpet with a knife.,A man is cutting carpet with a knife.,1
+139,279,280,A woman is riding a motorized scooter down a road.,A man is riding a motor scooter.,0
+140,281,282,someone is slicing a vegetable.,Someone is slicing a tomato.,1
+141,283,284,A woman is dancing.,A man is talking.,0
+142,285,286,A dog licks up a baby's drool.,A dog licks a baby.,1
+143,287,288,A man is rowing a boat.,A man is slicing a tomato.,0
+144,289,290,A man cuts up potatos.,A man slices potatoes.,1
+145,291,292,A woman is chopping up garlic.,The woman is dicing garlic.,1
+146,293,294,An animal run in circles.,A squirrel runs in circles.,1
+147,295,296,A man is walking slowly across a rope bridge.,A boy is walking across a bridge.,1
+148,297,298,A man is playing the guitar.,A man seated in a room is playing the guitar.,1
+149,299,300,A man plays the flute.,A man is playing a flute.,1
+150,301,302,A woman cracks two eggs into a glass bowl.,A woman is cracking an egg into a bowl.,1
+151,303,304,A man is cutting a fish.,A man guts a fish.,1
+152,305,306,Two men are packing suitcases into the trunk of a car.,The men are putting suitcases into the car's trunk.,1
+153,307,308,A man pours oil on some tomatos.,The man poured oil on the cut tomatoes.,1
+154,309,310,A man is slicing something.,A man is slicing a bun.,1
+155,311,312,A man is paddling a canoe.,A man is playing a harp.,0
+156,313,314,A man and woman are walking together through the woods.,A man and woman are walking arm in arm through a wooded area.,1
+157,315,316,The woman picked up the kangaroo.,A woman picks up a baby kangaroo.,1
+158,317,318,Fish are swimming.,A fish is swimming.,1
+159,319,320,Two women mix something in a food processor.,Two women make something in a blender.,1
+160,321,322,A person is surfing a large wave.,A person is surfing.,1
+161,323,324,A man is playing a guitar.,A man is stabbing a target.,0
+162,325,326,A man is playing a flute in a band.,A man is playing a guitar.,0
+163,327,328,The man spread butter on the loaf of bread.,A man is spreading butter onto bread.,1
+164,329,330,A person is boiling noodles.,A woman is boiling noodles in water.,1
+165,331,332,A group of people dance on a hill.,A group of people are dancing.,1
+166,333,334,A man is dancing outside.,A man is playing flute.,0
+167,335,336,A woman is feeding a man.,A woman is mixing meat.,0
+168,337,338,A man is putting a pan into an oven.,A woman is cutting an onion.,0
+169,339,340,A woman is sitting at a desk.,A woman is riding a donkey.,0
+170,341,342,Medics transport a patient on a stretcher.,A doctor rushes a patient on a stretcher.,0
+171,343,344,A woman is playing a flute on stage.,The woman is playing the flute.,1
+172,345,346,Two baby pandas are playing.,Two pandas are laying together.,1
+173,347,348,A baby is laughing.,A baby is laughing and giggling.,1
+174,349,350,A man is playing a guitar.,A boy is playing a piano.,0
+175,351,352,A man is folding paper.,A woman is slicing a pepper.,0
+176,353,354,Three women are dancing.,The man is dancing.,0
+177,355,356,The cats are playing with each other.,Two cats are fighting each other.,0
+178,357,358,A person is writing.,A person is writing with a pencil.,1
+179,359,360,A man is running.,A man is running down a road.,1
+180,361,362,The woman is rolling dough.,A woman is flouring and rolling dough.,1
+181,363,364,A woman is adding spices on a meat.,Woman is adding sugar to meat.,1
+182,365,366,A woman is adding oil on fishes.,A woman is pouring water on fish.,0
+183,367,368,A young boy is holding a guitar.,A little boy is playing a guitar.,1
+184,369,370,A cheetah is running.,A cheetah is running across a field.,1
+185,371,372,The man is eating pizza.,A man is eating a slice of pizza.,1
+186,373,374,An orangutan is riding a bus.,A monkey is riding on a bus.,1
+187,375,376,A man and a woman talk in a diner.,A man and a woman are riding on a bicycle.,0
+188,377,378,A man is playing a guitar.,A man is cleaning a glass door.,0
+189,379,380,A girl is singing and playing a guitar.,A young man is singing while playing the guitar.,1
+190,381,382,A girl is communicating with sign language.,A young girl is using sign language.,1
+191,383,384,A woman is doing weight exercises.,A woman is doing her hair.,0
+192,385,386,A man is getting inside a car.,An elderly man is getting into a red car.,1
+193,387,388,A big green ball knocks a potato over.,A large green ball hits a potato.,1
+194,389,390,A cat is playing keyboards.,A cat is playing a piano.,1
+195,391,392,Two dogs swim in a pool.,Dogs are swimming in a pool.,1
+196,393,394,The man used a chopper to chop the onion.,The man used a machine to chop up a potatoe.,0
+197,395,396,A woman slices tofu.,A woman is cutting tofu.,1
+198,397,398,A herd of deer are crossing the street.,A herd of caribou are crossing a road.,1
+199,399,400,The person is riding the horse.,A man is riding a horse.,1
+200,401,402,Someone is feeding a animal.,Someone is playing a piano.,0
+201,403,404,Someone is slicing tortila's.,Someone is riding a horse.,0
+202,405,406,Someone is mixing ingrediants.,Someone is sewing things.,0
+203,407,408,A rooster pecks at a dead mouse.,A chicken is pecking at a dead mouse.,1
+204,409,410,A woman holds a kangaroo.,A woman is picking up a kangaroo.,1
+205,411,412,A man is playing with frogs,A man is playing with frogs,1
+206,413,414,Two men are talking.,Two men are playing guitar.,0
+207,415,416,A man spreads butter on a big piece of bread.,A man is smearing butter on a slice of garlic bread.,1
+208,417,418,A man is running across a high wire.,A man is running on rope.,0
+209,419,420,A man is mowing a lawn.,A woman is cutting a lemon.,0
+210,421,422,A man is opening a door.,A man is playing a guitar.,0
+211,423,424,A man is slicing a potato into pieces.,A man is cutting a potato.,1
+212,425,426,The woman is cutting cooked octopus.,A woman is chopping octopus.,1
+213,427,428,A man is punching through boards.,A dog is running through water.,0
+214,429,430,A man is dancing.,A man is eating bread.,0
+215,431,432,Someone is playing a piano.,A man is playing a guitar.,0
+216,433,434,Two foxes are eating from a plate on a brick patio.,Foxes are eating from a plate.,1
+217,435,436,A boy is playing a key-board.,A boy is playing the piano.,1
+218,437,438,A person plays a keyboard.,Someone is playing a keyboard.,1
+219,439,440,A man is shooting a gun.,A man is spitting.,0
+220,441,442,Someone is slicing an onion.,Someoen is peeling a potato.,1
+221,443,444,A man is swimming.,A woman is slicing meat.,0
+222,445,446,A man is playing the guitar.,A man plays an acoustic guitar.,1
+223,447,448,A woman is slicing a pumpkin.,A woman is riding an elephant.,0
+224,449,450,A woman is dancing.,A woman is kneading dough.,0
+225,451,452,A woman is cracking eggs into a bowl.,A woman is placing skewers onto a rack.,0
+226,453,454,A car is moving through a road.,A car is driving down the road.,1
+227,455,456,Someone is greasing a pan.,S0meone is laying down.,0
+228,457,458,A man is playing guitar.,A man is draining pasta.,0
+229,459,460,A woman is drinking vodka.,A woman is exercising.,0
+230,461,462,A woman is cutting meat into pieces.,A woman is cutting up some meat.,1
+231,463,464,A man is rinsing a steak.,A man is playing a guitar.,0
+232,465,466,A man is selling items.,A man is cleaning the house.,0
+233,467,468,A man is jumping a wall.,A man jumps onto a short wall.,1
+234,469,470,Runners race around a track.,Runners compete in a race.,1
+235,471,472,A man is kicking a soccer ball.,A man is mixing a bowl.,0
+236,473,474,A woman is frying something.,A woman is riding a horse.,0
+237,475,476,A cat is licking a sucker.,A woman is slicing cucumber.,0
+238,477,478,A woman is dancing by a fire.,A woman is taking a bath.,0
+239,479,480,The man is slicing a fish open.,A man is slicing a potato.,0
+240,481,482,Butter is melting in a pan.,A man is melting butter in a pan.,1
+241,483,484,Three boys are dancing.,Kids are dancing.,1
+242,485,486,A woman is playing a game with a man.,A man is playing piano.,0
+243,487,488,The man is driving a white car.,A man is giving an interview.,0
+244,489,490,A man drove his car.,A man is driving a car.,1
+245,491,492,A car backs out of a space.,A car is backing out of a blocked lane.,1
+246,493,494,A man puts some cheese on a pizza.,The man sprinkled cheese on the pizza.,1
+247,495,496,The boy is playing the piano.,A boy plays a piano.,1
+248,497,498,The man played his guitar.,A man is playing a guitar.,1
+249,499,500,A man is riding a horse.,A man is playing a keyboard.,0
+250,501,502,A man is walking on a rope.,A man is riding a mo-pad.,0
+251,503,504,A girl is playing a flute.,A band is playing on a stage.,0
+252,505,506,People step off a train.,A group of people get off a train.,1
+253,507,508,A woman is sewing on a machine.,A woman is breading some meat.,0
+254,509,510,A dog is looking into swimming pool.,A dog is walking around a pool.,1
+255,511,512,A man is buttering a piece of bread.,A man is applying butter to bread.,1
+256,513,514,A man is cutting tomatoes into pieces.,A woman is cutting some vegetables.,0
+257,515,516,Three teenage girls danced in the room.,Some teenage girls are dancing for the camera.,1
+258,517,518,A lion is walking.,A lion is pacing in a pen.,0
+259,519,520,A man shooting a car.,A man is cutting a potato.,0
+260,521,522,A black horse is running around.,The horse is running.,1
+261,523,524,A woman is deveining shrimp.,A man is dancing in rain.,0
+262,525,526,A man is riding a horse.,A woman is washing a freezer.,0
+263,527,528,A man walks down a path.,A man walks across a tight rope.,0
+264,81,529,A man is slicing a potato.,A woman is cutting a jalepeno.,0
+265,530,531,A dog is barking at a ball.,A dog swims after a tennis ball.,0
+266,532,533,A kid runs away from a fish swinging around on a fishing pole.,A little kid is running around a fishing pole.,1
+267,534,535,A man is walking along a path through wilderness.,A man is walking down a road.,1
+268,536,537,An elderly man is speaking at a podium.,A man is making a speech at the podium.,1
+269,538,539,A man riding a horse in slow motion.,A man is riding on a horse.,1
+270,540,541,A person is cutting some burrata cheese.,The person is slicing cheese.,1
+271,542,543,The man is shooting an automatic rifle.,A man is shooting a gun.,1
+272,544,545,A man is crushing garlic with the back of a knife.,A woman is slicing meat with a knife.,0
+273,546,547,A woman is filing her fingernails with an emery board.,A woman is feeding her baby with a bottle.,0
+274,548,549,A man is riding a skateboard.,A woman is cutting a potato.,0
+275,550,551,A woman is taking a shower.,A man is riding a white horse.,0
+276,552,553,A  man is dancing.,A man is riding a horse.,0
+277,554,555,A man is rowing a boat.,A man is shooting off a gun.,0
+278,556,557,A man is swinging from a rope attached to the ceiling.,A man is swinging on a rope.,1
+279,558,559,A woman is riding a horse on a beach.,A man is carrying another man on his back.,0
+280,560,561,A man holds a small animal in one hand.,A man shows off a small monkey.,1
+281,562,563,A person is folding a square paper piece.,A man is folding paper.,1
+282,564,565,A person is frying meat in a pan.,A person is holding a skunk.,1
+283,566,567,A chimpanzee is hurting a woman.,A man is driving a car.,0
+284,568,569,The woman is peeling shrimp.,The man is holding a lemur.,1
+285,570,571,Two zebras are playing.,Zebras are socializing.,1
+286,572,573,A woman is slicing butter.,A woman slices tofu.,0
+287,574,575,Some men are playing guitars.,Three men are playing guitars and singing together.,1
+288,576,577,The elephants sprayed water on themselves.,Elephants spray themselves with water.,1
+289,578,579,A dog sat at the counter of a store.,The dog is standing at the counter.,1
+290,580,581,Someone drills a hole in a strip of wood with a power drill.,A man drills a hole in a piece of wood.,1
+291,582,583,A woman is slicing some vegetables.,The woman is dicing garlic.,1
+292,584,585,A badger is burrowing a hole.,A badger is digging the earth.,1
+293,586,587,A woman is water skiing on a lake.,A man is playing a flute.,0
+294,588,589,A girl is playing a violin.,A baby is laughing and giggling.,0
+295,590,591,A helicopter is landing on a helipad.,A helicopter lands.,1
+296,592,593,A woman is cutting up a chicken.,A woman is slicing meat.,1
+297,594,595,A woman is cutting a cucumber.,A man is playing a guitar.,0
+298,596,597,A woman rides an elephant in front of an adoring crowd.,A woman rides an elephant.,1
+299,598,599,A puppy is sliding backwards along the floor.,A puppy is pushing itself backwards.,1
+300,600,601,A woman splits garlic cloves.,A woman is breaking a head of garlic into cloves.,1
+301,602,603,A dog is looking into swimming pool.,A dog is walking along the edge of a pool.,1
+302,604,605,A woman mixes a beauty treatment in a glass.,A woman is mixing a cream in a glass with a spoon.,1
+303,606,607,A man is drawing a picture.,A person is drawing.,1
+304,608,609,A woman is picking tomatoes.,A woman is pouring batter into a bowl.,0
+305,610,611,A man is looking at a computer monitor.,A man is using a laptop.,1
+306,612,613,The boy is riding a tricycle.,A woman is riding a water scooter.,0
+307,614,615,Two men compete in a tire rolling race.,Two people flipped tractor tires in a race.,1
+308,616,617,A person is cutting a meat.,A person riding a mechanical bull,0
+309,618,619,A man is playing a violin.,A woman is using a sewing machine.,0
+310,620,621,The baby crawled through the doorway.,A baby is crawling across the floor.,1
+311,622,623,A man is playing keyboard.,A person is playing a piano.,1
+312,624,625,A man is smelling two pizzas.,A woman is feeding a man.,0
+313,626,627,A monkey pulls the tail of a dog.,A monkey is teasing a dog at the zoo.,1
+314,628,629,A dog lies on his back on a wooden floor.,A dog is laying on the floor.,1
+315,630,631,A woman is frying something in the pan.,A man is playing his guitar.,0
+316,632,633,A man puts seasoning in a bowl of water.,The man added seasoning to water in a bowl.,1
+317,634,635,An elderly woman is pouring oil into a frying pan.,A tied man is putting into water.,0
+318,636,637,A woman is chopping an onion.,A woman is slicing partially into half of an onion.,1
+319,638,639,The woman picked up the kangaroo.,A woman is carrying a kangaroo.,1
+320,640,641,A dog biting on a can.,A dog opens a can of food.,1
+321,642,643,A woman is deboning a fish.,A man catches a fish.,0
+322,644,645,A man is mowing grass.,A man is busting concrete.,0
+323,646,647,A cat is watching a TV.,A man is slicing a leave.,0
+324,648,649,The boy is stuck in the door of the doghouse.,A child is stuck in a dog house.,1
+325,650,651,People flip into a swimming pool.,Men are falling into a pool.,1
+326,652,108,A woman swims underwater.,A woman is swimming.,1
+327,653,654,A man is playing a guitar.,A woman is dancing.,0
+328,655,656,An airplane is flying in the air.,A South African Airways plane is flying in a blue sky.,1
+329,657,658,A bear is running from two dogs.,A bear is fighting wolves.,0
+330,659,660,A woman is resting in a floating raft.,A woman relaxes in an inner tube.,1
+331,661,662,A man is dieing in an operating room.,A man is kissing a woman in stage.,0
+332,663,664,A man is holding a leaf.,A woman is watching television.,0
+333,665,666,A person is riding a horse.,A woman is slicing potatoes.,0
+334,667,668,A woman is slicing octopus.,A man is playing the guitar.,0
+335,669,670,A man is breaking water jugs.,A woman is peeling garlic.,0
+336,671,672,A man is playing a guitar.,A woman is cutting vegetable.,0
+337,673,674,A girl is eating a cupcake.,A man is slicing a cucumber.,0
+338,675,676,The little girl played on the grass with a dog and a ball.,A baby plays with a dog and ball.,1
+339,677,678,People ride and paddle a raft.,Four people are floating on a raft.,1
+340,679,680,The lady cut up a potatoe.,A man is cutting a potato.,0
+341,681,682,The missile exploded.,A rocket exploded.,1
+342,683,684,A dog is playing in the snow.,A dog is pawing at a fly in the carpet before it.,0
+343,685,686,A woman is dancing with other women.,A woman is shredding chicken.,0
+344,687,688,A boy is pushing a van.,A person is slicing a tomato.,0
+345,689,690,A boy is making some dance steps.,A boy is pouring something from a pitcher.,0
+346,691,692,A woman is opening a soda and drinking it.,A woman is riding on an elephant.,0
+347,693,694,A man is assembling speaker parts.,A man is playing the guitar.,0
+348,695,696,The dog walked along the edge of the pool.,A dog is walking along a pool.,1
+349,697,698,Butter is being put into a bowl.,A man cutting butter into a mixing bowl.,1
+350,699,700,Raccoons are eating.,A man is eating.,0
+351,701,702,Someone fell off a horse.,A man gets knocked off of a horse.,1
+352,703,704,A woman peels an apple.,A man pops wheelies on a motorcycle.,0
+353,705,134,A man is taking some math classes.,A man is rinsing a steak.,0
+354,706,707,Animals are playing in water.,Two men are playing ping pong.,0
+355,708,709,A man is riding a horse and jumping over obstacles.,A man is kicking a soccer ball.,0
+356,710,711,A person is doing pencil tricks with his hand.,A person is slicing carrots in half.,0
+357,712,713,The person lit the cameras on fire.,A person is blow torching cameras.,0
+358,714,715,The man is slicing the tape from the box.,A man is cutting open a box.,1
+359,716,717,A man is fishing in the river.,A man is singing while walking down the sidewalk.,0
+360,718,719,A man is riding a bike.,A woman is dancing in the street.,0
+361,720,721,A man is doing push-ups.,A woman is cutting some octopus.,0
+362,722,723,A man is playing guitar.,A woman is slicing up some pork.,0
+363,724,725,The little boy is singing and playing the guitar.,A baby is playing a guitar.,1
+364,726,727,A woman is powdering her face.,The woman is tapping her fingers on the table.,0
+365,728,729,A woman is peeling a potato.,A lion is walking around.,0
+366,730,731,A woman is firing a rifle.,A man is performing stunts.,0
+367,732,733,A woman puts a garland over a man's shoulders.,A man pours water over a pilots head.,0
+368,734,735,An old woman is shaking hand with a man.,A man and a woman shake hands.,1
+369,736,737,The woman is waterskiing.,A woman is wake boarding on a lake.,1
+370,738,739,Trees are bending in storm.,Trees are hit by very hard winds.,1
+371,740,741,A man and woman is riding in a car.,A woman is frying shrimp.,0
+372,742,743,A man is moving a tree limb.,The woman is playing the violin.,0
+373,744,745,A man plays a piano.,A woman is playing the violin.,0
+374,746,747,A person pours oil on a skillet.,A person is dicing an onion.,0
+375,748,749,The animal is eating.,A woman is dancing.,0
+376,750,751,The woman is walking her dog.,A woman walks her dog down the street.,1
+377,752,753,A group of people sing.,Some people are singing.,1
+378,754,755,The cat is drinking milk.,A cat is licking from a saucer of milk.,1
+379,756,757,A girl is making eyelid.,A woman is applying eyeshadow.,0
+380,758,759,Two men are fighting.,Two men are fighting using a form of martial arts.,1
+381,760,761,The military officer barked at the recruits.,An officer is talking to recruits.,1
+382,762,763,The man is putting chicken into the container.,A man is putting foods in a box.,1
+383,764,765,A man is tying on a stenographers machine.,the man used a stenograph.,1
+384,766,767,A woman is adding pasta to a pot of water.,A woman is making noodles.,0
+385,768,769,A woman is lying on a blanket on a rock and reading a book.,A woman seated is singing a song and playing the guitar too.,0
+386,770,771,Two puppies are playing with each other.,Some men are playing soccer.,0
+387,772,773,A man is running on a field.,A man climbs up a rope.,0
+388,774,775,A man is hugging someone.,A man is taking a picture.,0
+389,776,777,Someone is pouring ingrediants into a pot.,A man puts vegetables into a pot.,1
+390,778,779,A couple are walking.,Some men are sawing.,0
+391,780,781,A person is playing a guitar.,The man played his guitar.,1
+392,782,783,A person is adding food in a pan.,A woman puts rice into a pan.,1
+393,784,785,A group of penguins is walking.,A large amount of penguins are heading to the ocean.,1
+394,786,787,A man is playing a guitar.,Someone is handling a bun.,0
+395,788,789,A dog is jumping on a trampoline.,A boy is playing a guitar.,0
+396,790,791,A man is shaking a container over a kitchen sink.,A man is emptying a plastic container.,1
+397,792,793,A man is walking with a horse.,A man is leading a horse around by it's halter.,1
+398,794,795,Paper is being cut with scissors.,A piece of paper is being cut.,1
+399,796,797,A person peels shrimp.,The lady peeled the shrimp.,1
+400,798,799,A man is playing a guitar.,A man tries to read the paper.,0
+401,800,801,A man making a bed in a hotel.,A man is holding a animal.,0
+402,802,803,The dog pulled the dogs tail and then his leg.,A monkey pulled a dogs tail.,0
+403,804,805,A woman beats two eggs in a bowl.,A person is mixing ingredients in a bowl.,1
+404,806,807,A man is jumping rope outside.,A woman is slicing a cucumber.,0
+405,808,809,A person is slicing some onions.,A hamster is singing.,0
+406,810,811,A woman holds a kangaroo.,A man in a hat sings a song.,0
+407,812,813,Soccer players are kicking a soccer ball into the goal.,A soccer player scores a goal.,1
+408,814,815,A woman is cooking something.,A woman is pouring ingredients into a frying pan.,1
+409,816,817,A woman is swimming in the beach.,A woman splashes around in the ocean's waves.,1
+410,818,819,A man is carrying another man.,A man sprays another man with water from a hose.,0
+411,820,821,The woman is putting paste into a dish.,A woman is pulling some kind of sticky goo out of a bowl.,1
+412,822,823,A man is holding up and talking about a gray You Tube T-shirt.,A man is showing a t shirt.,1
+413,824,825,Someone pours olive oil into a bowl of tomato wedges.,The man poured oil on the tomato slices.,1
+414,826,827,A man is playing the guitar.,The man played his guitar with a friend.,1
+415,828,829,Someone is boiling okra in a pot.,Someone pours olive oil into a bowl of tomato wedges.,0
+416,830,831,A person is peeling a potato.,A cat is licking a small bottle.,0
+417,832,833,A cat is jumping into a box.,A young man is talking to a leaf.,0
+418,834,835,The woman is seasoning the oil.,A woman is pouring ingredients in a bowl.,0
+419,836,837,A cat is sliding upside down under a couch.,A cat is crawling under a piece of furniture on it's back.,1
+420,838,839,A woman dances while a man plays the keyboard.,A woman is dancing on a stage.,1
+421,840,841,A chef is cleaning up a bowl of soup.,A man is wiping the edge of a bowl off.,1
+422,842,843,An explosion is booming in the desert.,A nuclear weapon explodes in a desert.,1
+423,844,845,A woman slices a lemon.,A man is talking into a microphone.,0
+424,846,847,An overweight man is skipping rope.,A young man is dancing.,0
+425,848,849,The lady cracked two raw eggs.,The woman is cracking eggs into a bowl.,1
+426,850,851,A man sharpens a pencil using a knife.,A woman is dancing in the rain.,0
+427,852,853,Plastic toys are floating in water.,The ladies are performing a dance.,0
+428,854,855,The turtle followed the fish.,A sea turtle is hunting for fish.,1
+429,856,857,The woman is pencilling on eye shadow.,The girl is using an eye pencil on her eyelid.,1
+430,858,859,A man is tying his shoe.,A dog is riding on a bicyclists shoulders.,0
+431,860,861,A woman is slicing meat with a knife.,A man is spreading out dough.,0
+432,862,863,A dog is running on the ground.,A girl is tapping her finger nails.,0
+433,864,865,A man is petting a tied up dog.,A man is showing his dog to the camera.,0
+434,866,867,A woman is walking on an open ground with a pet dog as some other dogs follow them.,A man is walking with several dogs.,0
+435,868,869,A woman is mincing some garlic.,A person is cleaning a disk.,0
+436,870,871,Two teams are playing soccer.,Different sets of teams are playing football on a field.,0
+437,872,873,A rat like creature is smelling around.,An animal is walking on the ground.,0
+438,874,875,Two Sumo ringers are fighting each other.,A man rides a water toy in the water.,0
+439,876,877,A man lays on the ground and aims a rifle.,A man is spreading butter on a tortilla.,0
+440,878,879,A couple are running towards the ocean.,A man and and woman are running together,1
+441,880,881,A woman is chopping a hard egg.,A person is cutting  boiled egg into pieces.,1
+442,882,883,Two robots share a kiss.,A male and female robot are kissing.,1
+443,884,885,A cat is trying to touch a dog.,The cat teased the dog by touching his head.,1
+444,886,887,The rhino grazed on the grass.,A rhino is grazing in a field.,1
+445,888,889,The man drove his little red car around the traffic.,The dog ran in the water at the beach.,0
+446,890,891,A man is cutting bread.,A man is doing tricks with a soccer ball.,0
+447,892,893,A cat rapidly swats a kid in the head.,A cat and a boy play together.,1
+448,894,895,A cat is playing in a box.,The dog is playing with the floor cleaner.,0
+449,896,897,The couple danced in the church.,A couple slow dances.,1
+450,898,899,A man is patting an alligator on the mouth.,A person is dumping chopped vegetables into a pot on the stove.,0
+451,900,901,A person checks some rice pudding.,A horse is running.,0
+452,902,903,A woman is stirring two eggs in a glass bowl.,A young girl is singing on a stage.,0
+453,904,905,The man is playing the drums.,A man pours cleaner in his sink.,0
+454,906,907,A man is slicing a pepper.,A person cuts a big green pepper apart.,1
+455,908,909,A woman is speaking in sign language.,A woman spices some seafood.,0
+456,910,911,A boy is crawling into a dog house.,A cat is playing on the floor.,0
+457,912,913,The girl flew her kite while she ran up a hill.,A girl loses her kite.,0
+458,914,915,A woman is placing food in a pot of hot water.,A woman is frying meat.,0
+459,916,917,A small monkey walks through water.,A monkey is wading across a marsh.,1
+460,918,919,A man is riding a bike.,A panda bear is eating.,0
+461,920,921,A young man is singing and playing the piano.,The man is writing a letter.,0
+462,922,923,A boy takes off his sunglasses.,A boy is screaming.,0
+463,924,925,A girl is playing a piano.,A boy is doing push ups.,0
+464,926,927,The lady sliced a tomatoe.,Someone is cutting a tomato.,1
+465,928,929,Someone is holding a hedgehog.,A onion is being sliced.,0
+466,930,931,A woman peels a potato.,A woman is grilling pineapples.,0
+467,932,933,A cat is drinking some water.,A truck is going down a hill.,0
+468,934,935,A person is putting salt and pepper on a piece of pork.,A youngster is sitting on a piano.,0
+469,936,937,The man sat in his chair and stared.,The little girl is putting her hair into a pony tail.,0
+470,938,939,A woman is dicing a potato.,A woman cuts tofu into tiny pieces.,0
+471,940,941,A baby is crawling happily.,A baby sneezed and scared another baby.,0
+472,942,943,A person is frying a meat in the pan.,A man is cutting a vegetable.,0
+473,944,945,A man is looking out of a window.,A woman is swimming in the water.,0
+474,946,947,A man seated is playing the guitar.,A man is playing an acoustic guitar and singing into a microphone.,1
+475,948,949,A woman is slicing an onion with a knife.,A man is preparing some dish.,0
+476,950,951,A rider is running and jumping her horse.,A woman jumps hurdles on a horse.,1
+477,952,953,A boy is playing a key-board.,A boy is sitting in a room playing a piano by lamp light.,0
+478,954,955,Two men are fighting.,The man is exercising.,0
+479,956,957,A man is playing a wooden flute while several other men play bongo drums.,A man is playing a flute.,1
+480,958,959,A person is petting a monkey.,A man is holding a slow loris.,0
+481,960,961,Two cartoon rabbits are kissing.,A rabbit is kissing another rabbit.,1
+482,962,963,The hedgehog chewed on the towel.,A hedgehog is biting at a blanket.,1
+483,964,965,A cat is licking himself.,A man is slicing a white onion with a mandolin slicer.,0
+484,966,967,A small guinea pig is gnawing and eating a piece of carrot on the floor.,A Guinea pig eats a carrot.,1
+485,968,969,Four boys are standing in front of the burning car.,Four young men stand still as a car explodes behind them.,1
+486,970,971,A man is smoking.,The man sat in his suit and smoked.,1
+487,972,973,A woman is adding sauce to some food.,A person is cutting leaves.,0
+488,974,975,Three children are eating their food.,The deer jumped over the fence.,0
+489,976,977,A submarine is going through water.,A baby is falling asleep.,0
+490,978,979,A man is running on a street.,A man plays the guitar.,0
+491,980,981,A person is slicing an onion.,A cat is pooping into a toilet.,0
+492,982,983,A badger is digging in the dirt.,A man is moving large rocks.,1
+493,984,985,A woman is slicing big pepper.,A dog is moving its mouth.,0
+494,986,987,A man is riding a bicycle.,A man is riding a bike.,1
+495,988,989,A man and a woman are kissing each other.,A man and a woman are talking to each other.,0
+496,990,991,A woman is slicing an onion.,A woman is cutting an onion.,1
+497,992,993,A small boy is playing with a dog.,A baby is playing with a dog.,1
+498,994,995,The man is drawing.,A man is drawing.,1
+499,996,997,A man is cutting a potato.,A woman is cutting a tomato.,0
+500,998,999,A boy is playing a guitar.,A kid is playing a guitar.,1
+501,1000,1001,A woman is cutting an onion.,A woman is cutting through an onion.,1
+502,1002,1003,A toy train is striking a toy car.,A toy train strikes a toy car.,1
+503,1004,1005,A man is playing the guitar.,A man is playing the flute.,0
+504,1006,1007,A cat opens a drawer and climbs inside.,A cat is opening a drawer and climbing inside.,1
+505,1008,1009,A woman is frying a food.,A woman is deep frying food.,1
+506,1010,1011,A man is dicing an onion.,A woman is cutting an onion.,0
+507,1012,1013,A girl is playing a guitar.,A man is playing a guitar.,0
+508,1014,1015,A girl is singing on stage.,A man is singing on stage.,0
+509,1016,1017,A woman is riding a horse.,A woman is riding a donkey.,0
+510,1018,1019,A girl is playing a guitar.,A man is playing a guitar.,0
+511,1020,1021,A woman is brushing some shrimp.,A woman brushes some shrimp.,1
+512,1022,1023,A man is dancing on the ceiling.,A man is dancing on the ceiling of a room.,1
+513,1024,1025,A woman thinly slices an onion with a large knife.,A woman is slicing onions with a large knife.,1
+514,1026,1027,A man is playing a keyboard.,A man plays a keyboard.,1
+515,1028,1029,A man plays the guitar.,A man is playing the guitar.,1
+516,1030,1031,A woman is peeling a potato.,A woman peels a potato.,1
+517,1032,1033,A woman is handling a frog.,A man is holding a frog.,1
+518,1034,1035,A man is playing a flute.,A man is playing a guitar.,0
+519,1036,1037,A man is playing a guitar.,A man is playing a flute.,0
+520,1038,1039,A man is playing a piano.,A man is playing a guitar.,0
+521,1040,1041,A man is playing a guitar.,A man is playing a piano.,0
+522,1042,1043,A man is playing a flute.,A man is playing a guitar.,0
+523,1044,1045,A man is playing a flute.,A man is playing a guitar.,0
+524,1046,1047,Two women are on a couch.,Two women are hugging on a couch.,1
+525,1048,1049,Someone is slicing a cucumber.,A man is slicing a cucumber.,1
+526,1050,1051,A kitten is playing with a blue rope toy.,A kitten is playing with a toy.,1
+527,1052,1053,The dog is barking at the toy.,A dog is barking at a toy.,1
+528,1054,1055,A person folds a tortilla.,A man folds a tortilla.,1
+529,1056,1057,A cat is drinking milk.,A kitten is drinking milk.,1
+530,1058,1059,A person is driving a car.,A man is driving a car.,1
+531,1060,1061,A turtle is walking.,A tortoise is walking.,1
+532,1062,1063,A cow is eating grass.,A cow is eating hay.,1
+533,1064,1065,A woman is chopping broccoli.,A woman is chopping garlic.,0
+534,1066,1067,A man is crying.,A man is screaming.,0
+535,1068,1069,The man is playing the guitar.,A man is playing guitar.,1
+536,1070,1071,A man is cutting an onion.,A man is cutting a plantain.,0
+537,1072,1073,A man is slicing a potato.,A woman is peeling a potato.,0
+538,1074,1075,A woman is tapping her fingers on a table.,A woman is tapping her fingers.,1
+539,1076,1077,Someone is boiling okra in a pot.,Someone is cooking okra in a pan.,1
+540,1078,1079,A man is smoking.,A man is mixing.,0
+541,1080,1081,The man is playing the drums.,A man is playing drums.,1
+542,1082,1083,A man dives into a pool.,A man is diving into a pool.,1
+543,1084,1085,A woman is cutting a leak.,A woman is slicing a leek.,1
+544,1086,1087,A little boy is playing a guitar.,A boy is playing guitar.,1
+545,1088,1089,A woman is dancing.,The man is dancing.,0
+546,1090,1091,Women are talking.,The men are talking.,0
+547,1092,1093,A girl is putting gel in her hair.,A woman is putting gel on her hair.,1
+548,1094,1095,A kid is playing guitar.,A man is playing a guitar.,1
+549,1096,1097,A group of people are marching in place.,A group of people are dancing in concert.,0
+550,1098,1099,The woman is shooting a machine gun.,The man is shooting a gun.,0
+551,1100,1101,A man played the piano.,A man plays a piano.,1
+552,1102,1103,A woman is slicing an onion.,Someone is slicing a onion.,1
+553,1104,1105,A man is slicing a cucumber.,A man is cutting cucumbers.,1
+554,1106,1107,A girl is eating a cupcake.,A woman is eating a cupcake.,1
+555,1108,1109,A woman is cutting an onion.,A man is chopping an onion.,0
+556,1110,1111,The man is playing a guitar.,A baby is playing a guitar.,1
+557,1112,1113,A man is playing the guitar.,A man is playing the drums.,0
+558,1114,1115,Two little girls talk on the telephone.,Two girls talk on the phone.,1
+559,1116,1117,A man is chopping a log with an axe.,A man is chopping a tree trunk with an axe.,1
+560,1118,1119,A person is cutting a capsicum into pieces.,A person is slicing a garlic into pieces.,0
+561,1120,1121,A man is talking with a woman.,A woman is walking with a dog.,0
+562,1122,1123,The man is walking.,A man is talking.,0
+563,1124,1125,Someone is pouring oil into a skillet.,Someone is pouring milk into a blender.,0
+564,1126,1127,A small kitten is playing a ball.,A kitten is playing with a ball.,1
+565,1128,1129,A man is playing a guitar.,A woman is playing a flute.,0
+566,1130,1131,A girl is playing a violin.,A girl is playing a flute.,0
+567,1132,1133,A man is playing two pianos.,A cat is playing a piano.,0
+568,1134,1135,A man is exercising.,A girl is exercising.,0
+569,1136,1137,A person is slicing a scallop.,A person is slicing octopus.,0
+570,1138,1139,A man and a woman are riding on their bicycles.,A man and woman are riding a motorcycle.,1
+571,1140,1141,Two men are fighting in a cow pasture.,Two men are fighting in a cattle pen.,1
+572,1142,1143,A woman is adding oil to a pan.,A man is pouring oil into a pan.,0
+573,1144,1145,A girl makes up her bed.,A young girl makes her bed.,1
+574,1146,1147,The cat played with a watermelon.,A cat is playing with a watermelon.,1
+575,1148,1149,A girl jumps on a car.,A girl is jumping onto a car.,1
+576,1150,1151,A man is praying.,A man is running.,0
+577,1152,1153,A car is parking.,A cat is playing.,0
+578,1154,1155,A man is running.,A man is dancing.,0
+579,1156,1157,A man is singing.,A man is dancing.,0
+580,1158,1159,A man is carrying another man over his shoulder.,A man is carrying someone on his shoulder.,1
+581,1160,1161,A woman is peeling a potato.,A woman is slicing a tomato.,0
+582,1162,1163,A woman is cutting a tomato.,A woman is slicing a potato.,0
+583,1164,1165,Someone is peeling a potato.,Someone is slicing a tomato.,0
+584,1166,1167,A woman is peeling a potato.,A woman is slicing a tomato.,0
+585,1168,1169,Two robots kiss.,Two robots are kissing.,1
+586,1170,1171,Two boys on a couch are playing video games.,Two boys are playing a video game.,1
+587,1172,1173,A woman is squeezing a lemon.,A woman is squeezing juice out of a lemon.,1
+588,1174,1175,A woman is slicing an onion.,A man is slicing a tomato.,0
+589,1176,1177,A woman is slicing a carrot.,A man is slicing a tomato.,0
+590,1178,1179,A girl is styling her hair.,A girl is filing her nails.,0
+591,1180,1181,A man walking down the stairs.,A man walks down a staircase.,1
+592,1182,1183,Two people are riding a motorcycle.,Two people are riding a bike.,1
+593,1184,1185,A man is playing a guitar.,A woman is playing an electric guitar.,0
+594,1186,1187,A man is playing a guitar and singing.,A man is playing a guitar.,1
+595,1188,1189,A man is walking in the rain.,A man and woman is walking in the grand.,0
+596,1190,1191,A kangaroo is eating.,Kangaroo eating.,1
+597,1192,1193,A man is fishing.,A man is exercising.,0
+598,1194,1195,A woman is swimming.,A man is singing.,0
+599,1196,1197,A Woman is eating.,A animal is eating.,0
+600,1198,1199,A boy and a girl is dancing in the rain.,A man and woman is dancing in the rain.,1
+601,1200,1201,A man is driving a car.,A man drives a car.,1
+602,1202,1203,A woman is grating onion.,A woman grates onions.,1
+603,1204,1205,Two roosters are fighting.,Two men are fighting.,0
+604,1206,1207,A man is riding a horse.,A man is driving a car.,0
+605,1208,1209,A man is riding a horse.,A man is driving a car.,0
+606,1210,1211,A man is shooting a gun.,A man is slicing a bun.,0
+607,1212,1213,A woman is cutting an onion.,A woman is cutting meat.,0
+608,1214,1215,The woman is slicing herbs.,The man is slicing bread.,0
+609,1216,1217,A boy is playing the piano.,A man is playing a piano.,1
+610,1218,1219,A baby elephant is eating.,A baby elephant eats a sapling.,1
+611,1220,1221,A woman is cracking eggs into a bowl.,A woman is cracking eggs.,1
+612,1222,1223,A person is playing the keyboard.,A boy is playing a key-board.,1
+613,1224,1225,A boy whacks a man with a sword.,A boy spanks a man with a plastic sword.,1
+614,1226,1227,A person is slicing a carrot into pieces.,A person is cutting an onion into pieces.,0
+615,1228,1229,A man sliced through a bunch of water bottles with a knife.,A man is slicing a line of water bottles with a knife,1
+616,1230,1231,A man is writing in a book.,A man is writing on a paper.,1
+617,1232,1233,A woman is slicing a garlic.,A woman is slicing a big pepper.,0
+618,1234,1235,A person is making a bed.,A person is eating at a table.,0
+619,1236,1237,A man is playing keyboard.,A man is playing guitar.,0
+620,1238,1239,A man is playing a violin.,A man is playing a harp.,0
+621,1240,1241,The woman is smoking.,The man is walking.,0
+622,1242,1243,The man erased what the other man had on the board.,The man erased the work on the board.,1
+623,1244,1245,A man is riding a motorcycle.,A man is riding a motorcycle through a town.,1
+624,1246,1247,A man is riding a motorcycle on the highway.,A man is riding a motorcycle.,1
+625,1248,1249,A woman is slicing up some meat.,A woman is slicing some onions.,0
+626,1250,1251,A woman cuts up broccoli.,A woman is cutting broccoli.,1
+627,1252,1253,A man is playing a piano.,A woman is peeling a potato.,0
+628,1254,1255,Someone is slicing a tomato.,Someone is slicing fruit.,1
+629,1256,1257,A woman is dancing in a cage.,A woman is dancing.,1
+630,1258,1259,A woman is swimming.,A man is spitting.,0
+631,1260,1261,A man is running.,A man is mooing.,0
+632,1262,1263,The man is playing the guitar.,The man played his guitar.,1
+633,1264,1265,A cat stares into the camera.,A cat addresses the camera.,1
+634,1266,1267,The baby is laughing and crawling.,A baby is laughing and crawling on the floor.,1
+635,1268,1269,A woman is shooting a gun.,A woman shoots a shotgun.,1
+636,1270,1271,A woman is dancing in the rain.,A woman is dancing in railway station.,0
+637,1272,1273,A woman is dancing.,A woman is exercising.,0
+638,1274,1275,A kid is playing an instrument.,A young boy is playing a wind instrument.,1
+639,1276,1277,Someone slices a bottle with a sword.,A man breaks a bottle with a sword.,1
+640,1278,1279,A woman is cutting an apple.,A woman is cutting potato.,0
+641,1280,1281,The man is peeling an apple.,A man peels an apple.,1
+642,1282,1283,The man is playing the guitar.,The man is playing with a skull.,0
+643,1284,1285,An animal is walking on the ground.,A solenodon is walking along the ground.,1
+644,1286,1287,A little girl is playing a grand piano on stage.,A little girl is playing the piano.,1
+645,1288,1289,a group of people dancing,a group of people dancing,1
+646,1290,1291,A man plays a guitar.,A woman is playing guitar.,0
+647,1292,1127,A cat swings on a ceiling fan.,A cat is spun around by a ceiling fan.,1
+648,1293,1294,A woman is playing the flute.,A girl is playing a flute.,1
+649,1295,1296,The woman is dicing onions.,A woman is cutting an onion.,1
+650,1297,1298,A monkey is brushing a bull dog.,A monkey brushes a dog.,1
+651,1299,1300,A woman is slicing a onion.,A woman is cutting a potato.,0
+652,1301,1302,A man is playing the piano.,A woman is playing a guitar.,0
+653,1303,1304,A woman is washing her hands.,A woman is straightening her hair.,0
+654,1305,1306,A woman fires a shotgun.,A woman is shooting a gun.,1
+655,1307,1308,A man is eating a bowl of cereal.,The man is eating cereal.,1
+656,1309,1310,A woman is bathing into bath-tub.,A woman is taking a bath.,1
+657,1311,1312,A motorcyclist crashes on his motorcycle.,A person crashes on a motorcycle.,1
+658,1313,1314,A man is dangling a mouse near a snake.,A man is feeding a mice to a snake.,1
+659,1315,1316,A man and a woman are walking in the woods.,A man and woman are walking through the jungle.,1
+660,1317,1318,A person pours some rice pudding into a bowl.,The lady poured the rice pudding into a bowl.,1
+661,1319,1320,A man stares out a window.,A man looks out the window.,1
+662,1321,1322,A woman is firing a rifle.,A woman is cutting a lemon.,0
+663,1323,1324,A man is eating a banana.,Someone is peeling a banana.,1
+664,1325,1326,The men are performing on stage.,The comedic mimes performed on stage.,1
+665,1327,1328,A cartoon woman dives into a pool.,A cartoon woman is diving off a board.,1
+666,1329,1330,The lady put the baby in a trashcan.,A woman puts a baby in a trash can.,1
+667,1331,1332,Someone is frying meat.,Someone is playing paino.,0
+668,1333,1334,A man is rapidly chopping some mushrooms using a knife.,A person is quickly chopping mushrooms with a knife.,1
+669,1335,1336,A woman is adding ingredients to a bowl.,A woman is cracking three eggs into a bowl.,1
+670,1337,1338,A skateboarder does tricks on a half-pipe.,A man skateboards on a half pipe.,1
+671,1339,1340,A man is speaking on a stage.,A man is speaking at a podium.,1
+672,1341,1342,A man is playing a guitar.,A man in a hat is playing a harp.,0
+673,1343,1344,A man is playing on his keyboard.,A man is playing a guitar.,0
+674,1345,1346,A person is cutting a potato.,A person is slicing a shallot.,0
+675,1347,1348,A man is dancing on the ceiling of a room.,A man is dancing upside-down on the ceiling.,1
+676,1349,1350,Two men are dancing.,Two women are shopping.,0
+677,1351,1352,Someone is seasoning eggs.,Someone is seasoning two raw eggs in a bowl.,1
+678,1353,1354,A man is swinging in a rope.,A gibbon is swinging in the trees.,0
+679,1355,1356,A man is cutting tomatoes.,A woman is cutting broccoli.,0
+680,1357,1358,A woman is boiling shrimp.,A woman is combing her hair.,0
+681,1359,1360,A man cuts a potato.,A man is slicing a potato.,1
+682,1361,1362,A man is dancing on the road.,A man is dancing.,1
+683,1363,1364,The deer jumped over the fence.,A deer jumps over a cyclone fence.,1
+684,1365,1366,A girl dances in the rain.,A woman is dancing in the rain.,1
+685,1367,1368,A woman is writing a letter.,A woman is sitting at a desk.,0
+686,1369,1370,A gorilla is playing the drums.,A monkey is playing drums.,1
+687,1371,1372,A woman is riding on a horse.,A woman is picking tomatoes.,0
+688,1373,1374,The boy cut the grass by the curb with scissors.,A boy cuts grass with scissors.,1
+689,1375,1376,A man with glasses is talking.,A man in a library is talking.,1
+690,1377,1378,A woman is cutting some flowers.,A woman is cutting broccoli.,0
+691,1379,1380,A person is walking down a stone path.,A man is walking down a sidewalk.,1
+692,1381,1382,A man plays the keyboard with his nose.,The man is playing the piano with his nose.,1
+693,1383,1384,A man is playing guitar.,A cat is playing.,0
+694,1385,1386,A animal is eating.,The animal is hopping.,0
+695,1387,1388,A man is lifting weights.,A man is lifting a barbell.,1
+696,1389,1390,A man is running with a bus.,A man runs with a truck.,1
+697,1391,1392,A man is climbing a rope.,A man is sitting on a rock.,0
+698,1393,1394,A cat is playing the piano.,A cat is licking its paw.,0
+699,1395,1396,A woman is dancing in the rain.,A woman is adding oil to a dish.,0
+700,1397,1398,Men are running a race.,Racers are running down a track.,1
+701,1399,1400,A man is cutting tomatoes into pieces.,A woman is cutting potatoes.,0
+702,1401,1402,A man is playing a flute.,A woman is applying eye liner.,0
+703,1403,1404,A woman is cutting potatoes.,A woman is slicing carrots.,0
+704,1189,1405,A chicken is pecking at a dead mouse.,A rooster pecks at a dead mouse.,1
+705,1406,1407,The woman is thinly slicing a cucumber.,The woman is slicing a tomato.,0
+706,1408,1409,A person is slicing a bread pieces.,A man is slicing bread.,1
+707,1410,1411,A woman is cutting a squash.,A woman is cutting big pepper.,0
+708,1412,1413,A woman is adding oil on fishes.,A woman is riding a horse.,0
+709,1414,1415,A woman is grating carrots.,A woman is coating a pork chop.,0
+710,1416,1417,Someone is cleaning a animal.,A woman is cleaning a shrimp.,1
+711,1418,1419,A man is talking on the phone.,A man is talking.,1
+712,1420,1421,A woman is smoking.,A woman is making some food.,0
+713,1422,1423,A man laying down and shooting a gun,A man laying down and shooting a gun,1
+714,1424,1425,A man is being put into an abulance.,A man is pouring pasta onto a plate.,0
+715,1426,1427,A man is diving into a swimming pool.,A man is singing into a microphone.,0
+716,1428,1429,A man is firing a shot gun.,A man shoots a shotgun.,1
+717,1430,1431,A man playing the guitar.,A man is playing a flute.,0
+718,1432,1433,A man is peeling potato.,A man is playing a guitar.,0
+719,1434,1435,The woman is riding a horse.,A man is riding a horse in an arena.,0
+720,1436,1437,An airplane moves along a runway.,A plane is landing on a runway.,1
+721,1438,1439,A woman is slipping in the water-tub.,A woman is lying in a raft.,1
+722,1440,1441,A man is mowing a lawn.,A man is mixing.,0
+723,1442,1443,A woman is peeling a potato.,A woman is hitting a man.,0
+724,1444,1445,A man is playing piano.,A man is laying on the ground.,0
+725,1446,1447,A woman is doing ballet.,A woman is riding on a horse.,0
+726,1448,1449,A woman is cutting an onion.,A woman is rowing a boat.,0
+727,1450,1451,A woman is stirring rice in a pot.,Someone is putting rice in a pan.,0
+728,1452,1453,A woman puts slabs of meat in a pan.,A man puts pieces of meat into a plastic bag.,0
+729,883,1454,The boy played his trumpet.,A boy is playing the trumpet.,1
+730,1455,1456,A person is riding a horse.,A man is riding a motorcycle.,0
+731,1457,1458,A woman is slicing an onion.,A woman is cutting a carrot.,0
+732,1459,1460,A man is slicing vegetables.,A woman is slicing a potato.,1
+733,1461,1462,A cat is playing.,A woman is playing flute.,0
+734,1463,1464,A man is riding a bicycle.,A man is riding a bicycle around a parking lot.,1
+735,1465,1466,A band is performing on a stage.,A band is playing and singing on a stage.,1
+736,1467,1468,The woman is slicing fish cake.,The woman is riding a horse.,0
+737,1469,1470,A man is eating bread.,A man is playing flute.,0
+738,1471,1472,A woman is cooking shrimp.,A woman is dancing.,0
+739,1473,1474,A woman is dancing.,A woman is slicing ginger.,0
+740,1475,1476,A woman tosses a cat in the air,A woman tosses a cat in the air,1
+741,1477,1478,A big turtle is walking.,The tortoise is walking.,1
+742,1479,1480,A man is burning a flag.,A man is shooting a gun.,0
+743,1481,1482,The man is pushing the van.,The woman is singing.,0
+744,1483,1484,A man is eating wood.,A man is adding oil to car.,0
+745,1485,1486,A dog is speaking to the camera.,A dog is eating some water melon.,0
+746,1487,1488,A man is putting two paper towels on a paper plate.,A man is putting papers on a dish.,1
+747,1489,1490,A man and woman are walking.,A man and woman walking hold each other.,1
+748,1491,1492,A man is cutting a rope with a sword.,The man sliced through a thick rope with a sword.,1
+749,1493,1494,The man is singing and playing the guitar.,A man is playing a guitar.,1
+750,1495,1496,A man is cutting a paper.,A person is tearing paper.,1
+751,1497,1498,A man is dancing.,A rat is running.,0
+752,1499,1500,Two boys are talking on the phone.,A woman is talking on a telephone.,0
+753,1501,1502,A man is playing guitar.,A woman is peeling a tuber.,0
+754,1503,1504,A woman is slicing an onion.,A women slicing lemons.,0
+755,1505,1506,A woman is riding a horse.,A man is running on rope.,0
+756,1507,1508,A man is playing soccer.,A man is drawing some figures.,0
+757,1509,1510,A woman is peeling an orange.,A man is playing a flute.,0
+758,1511,1512,Someone is cracking an egg open.,A man is breaking an egg.,1
+759,1513,1514,A man is cutting a snake to cook.,A woman is cutting meat.,1
+760,1515,1516,A woman is scraping a carrot.,A man is striking clay pots.,0
+761,1517,1518,A man and woman are Bollywood dancing.,A man an woman are dancing in the rain.,1
+762,1519,1520,A woman is cutting flowers.,A man is holding huge sunflowers.,0
+763,1521,1522,The man danced in the diner.,The bomb exploded in the desert.,0
+764,1523,1524,American flag is waving.,A American flag is blowing in the wind.,1
+765,1525,1526,A lion is walking in an enclosed area.,A lion is walking around.,1
+766,1527,1528,A woman is slicing a lemon.,A man is showing a bread.,0
+767,1529,1530,A woman is playing the flute.,A woman is slicing some tuna.,0
+768,1531,1532,The dog is barking at the toy.,A dog is barking at an electronic toy duck.,1
+769,1533,1534,A woman is adding an egg and stirring.,A woman is mixing an egg in a bowl.,1
+770,1535,1536,A woman covers a piece of meat with flour.,A woman is seasoning a piece of meat.,1
+771,1537,1538,A white cat perched on a small wooden cabinet is looking outside the window.,A cat,0
+772,1539,1540,A man does floor exercises.,A man is exercising.,1
+773,1541,1542,A man is slicing a potatoe.,A man is peeling a banana.,0
+774,1543,1544,Someone is playing piano.,A person is playing a keyboard piano.,1
+775,1545,1546,The woman is putting makeup on the man.,A woman is painting the face of a man.,1
+776,1547,1548,The woman droppped eggplant into the pan.,A woman puts chopped eggplant into a skillet.,1
+777,1549,1550,A man plays a trumpet.,A man is playing a musical instrument.,1
+778,1551,1552,A woman is slicing a lemon.,A woman,0
+779,1553,1554,A tiger trys to climb the wall.,A lion is trying to climb up over a wall.,0
+780,1555,1556,A man is preparing a hanging rope.,A man is tying a noose.,1
+781,1557,1558,A woman dances on a stage.,A woman is dancing.,1
+782,1559,1560,The girl is riding the horse.,The girl is spraying the plants with water.,0
+783,1561,1562,A person is frying.,A person is peeling a potato.,0
+784,1563,1564,A man is shooting a pistol.,A woman is chopping garlic.,0
+785,1565,1566,A woman is swinging her arms.,A woman is slicing an onion.,0
+786,1567,1568,A man is walking outside.,A man is dancing.,0
+787,1569,1570,A man dries his hands.,A woman fixes her hair.,0
+788,1571,1572,A soccer player is kicking the soccer ball into the goal from a long way down the field.,A soccer player kicks the ballinto the goal.,1
+789,1573,1574,A girl is playing the piano.,A little girl is playing a grand piano on stage.,1
+790,1575,1576,A man is drawing some figures.,A man is drawing on a digital dry erase board.,1
+791,1577,1578,The monkey is hanging from the trees.,The monkey swung from branch to branch.,1
+792,1579,1580,Some children are jumping on Trampoline.,Two boy are playing on a trampoline.,1
+793,1581,1582,A woman with a knife is slicing a pepper.,A women slicing green pepper.,1
+794,1583,1584,A man is adding oil to car.,A man is putting anti-freeze into a car.,1
+795,1585,1586,A man is slicing a carrot by a machine.,A man is climbing a rope.,0
+796,1587,1588,A boy played a keyboard.,A person is playing a piano keyboard.,1
+797,1589,1590,A cat is playing with an antenna.,A boy is playing in the mud.,0
+798,1591,1592,A woman is slicing pumpkin.,A person is slicing cantaloupe.,1
+799,1593,1594,The people threw the dummy over the cliff edge.,Some people are throwing a dummy off a cliff.,1
+800,1595,1596,A gun is being fired.,A potato is being peeled.,0
+801,1597,1598,A woman is cutting a plastic sheet.,A woman is playing a guitar on streets.,0
+802,1599,1600,A woman cuts a pineapple.,A woman is slicing a pineapple into pieces.,1
+803,1601,1602,A woman is adding spices on a meat.,A woman adds ingredients to beef.,1
+804,1603,1604,A person is adding oil in the pan.,The cook pouring oil into the pan.,1
+805,1605,1606,A cook seasons some dough.,A man is seasoning some dough in a pan.,1
+806,1607,1608,A boy is running on a beach.,Two boys are playing in the beach.,0
+807,1609,1610,A baby monkey scratches itself.,The monkey scratched his tummy.,1
+808,1611,1612,A boy is riding a bike on a gate.,A woman is riding a horse.,0
+809,1613,1614,A man is doing a card trick.,A man is squeezing water.,0
+810,1615,1616,A man is playing the piano.,Someone is playing guitar.,0
+811,1617,1618,A man is mowing grass.,A guy is mowing the lawn.,1
+812,1619,1620,A person is mixing water and flour.,A person is hitchhiking on a road.,0
+813,1621,1622,The two dogs were in the pen.,The cowboy rode his horse in the desert.,0
+814,1623,1624,A man is riding on one wheel on a motorcycle.,A person is performing tricks on a motorcycle.,1
+815,1625,1626,A cat opens a drawer and climbs inside.,A big cat opens a plastic drawer with his paws and then hops inside.,1
+816,1627,1628,A man is opening a box using a knife.,A man is playing a guitar.,0
+817,1629,1630,A man is kicking oots of water.,A woman is slicing a red pepper.,0
+818,1631,1632,A man is eating.,A woman is rock climbing.,0
+819,1633,1634,A puppy is repeatedly rolling from side to side while on its back.,A dog is rolling from side to side.,1
+820,1635,1636,A young boy sings and plays a guitar.,A kid plays the guitar.,1
+821,1637,1638,The woman is peeling lemon.,The man is balancing on the wire.,0
+822,1639,1640,A man is playing the trumpet.,Someone is playing with a toad.,0
+823,1641,1642,A dog is looking around.,A dog is watching a store counter.,1
+824,1643,1644,A woman is slicing an onion.,A man is shown slicing a carrot with a knife.,0
+825,1645,1646,The man drilled holes into the wood.,A man drills wood.,1
+826,1647,1648,Someone is cutting a circle out of a pink sheet of paper.,Someone is pouring tomato sauce into a pot of meat.,0
+827,1649,1650,A man is playing flute.,A man is petting a tied up dog.,0
+828,1651,1652,A man is placing meat in a bag.,A man is drivong a car.,0
+829,1653,1654,A girl is eating a cupcake.,A man is playing a trumpet.,0
+830,1655,1656,A rabbit is sniffing and pawing a stuffed rabbit.,A live rabbit is playing with a stuffed animal bunny.,1
+831,1657,1658,A man is buttering bread.,A woman is ridint a horse.,0
+832,1659,1660,A woman is squeezing some cucumber slices.,A woman is getting doused in green slime.,0
+833,1661,1662,A man is taking out the insides of a green pepper.,Someone is removing the seeds from a bell pepper.,1
+834,1663,1664,"A man takes a piece of pepperoni pizza out of a pizza box and puts it on the lid after he closes the box.apiece of pepperoni pizza out of the box.""","The man took apiece of pepperoni pizza out of the box.""",1
+835,1665,1666,The man added vegetables to the broth in the pot.,A man is adding sliced vegetables to a cooking bowl with water.,1
+836,1667,1668,The man ran and jumped against the wall.,A man jumps into a wall.,1
+837,1669,1670,The man is seasoning the sausages.,The man added seasoning to water in a bowl.,1
+838,1671,1672,A clown is singing and people are dancing.,A clown is singing.,1
+839,1673,1674,A woman is feeding an aardvark.,A woman is chopping up garlic.,0
+840,1675,1676,A person is rinsing a steak off with water.,A man is rinsing a large steak.,1
+841,1677,1678,A boy rode his bike on top of a metal fence.,A BMX biker rides along the top of a fence.,1
+842,1679,1680,A man is throwing knives at a tree.,A man is showing magic.,1
+843,1681,1682,Girls are walking on the stage.,Women models are walking down a catwalk.,1
+844,1683,1684,A woman is doing weight exercises.,A woman is exercising with a barbell.,1
+845,1685,1686,A man is peeling a potato.,A man is hiking.,0
+846,1687,1688,"A large bird standing on a table picks up a plastic glass containing liquid and places it in a bowl of something.birdpicks up a plastic cup containing a liquid with it's beak and puts the cup into a bowl.""","A birdpicks up a plastic cup containing a liquid with it's beak and puts the cup into a bowl.""",1
+847,1689,1690,A woman is in the rain.,A car is driving along the road.,0
+848,1691,1692,A woman is hitting a man.,A man is holding a slow loris.,0
+849,1693,1694,A woman is riding an elephant.,A man is lifting himself.,0
+850,1695,1696,A man is lifting weights.,A woman is exercising her abs.,0
+851,1697,1698,A person is riding a jetski in the waves.,A woman is riding a seadoo.,1
+852,1699,1700,A woman is wearing headphones.,A woman is chopping some shiso leaves.,0
+853,1701,1702,A kitten is eating its food from a plate.,A kitten eats some food.,1
+854,1703,1704,A woman is reading a lifestyle magazine.,A woman is slicing a meat into pieces.,0
+855,1705,1706,A man is pouring chili into a bowl.,A man opens a can and pours the contents into a bowl.,1
+856,1707,1708,The bird ate the food in the tree from a bowl.,A bird is eating from a bowl.,1
+857,1709,1710,A group of girls are exiting a taxi.,A video clip of Rihanna leaving a taxi.,0
+858,1711,1712,A woman is seasoning a piece of meat.,A man is loading a rifle with bullets.,0
+859,1713,1714,A man is chopping coriander leaf.,A man is playing a guitar.,0
+860,1715,1716,A man takes a slice of pizza.,A man talks on his cell phone.,0
+861,1717,1718,A man is placing meat inside a plastic bag.,A woman is carrying a wallaby in a bag.,0
+862,1719,1720,A rabbi is talking.,A man is walking on a rope.,0
+863,1721,1722,A man rides a horse.,A woman rubs a baby's leg.,0
+864,1723,1724,A man is playing guitar.,Smeone is laying down.,0
+865,1725,1726,A man is slicing a bun.,A man is breaking pots.,0
+866,1727,1728,A man  is driving a car.,A woman dips a shrimp in batter.,0
+867,1729,1730,A dog is pawing at a fly in the carpet before it.,The dog played with a bug on the carpet.,1
+868,1731,1732,A dog is barking.,A jet is flying.,0
+869,1733,1734,A monkey is walking on a bed.,A man is riding a horse.,0
+870,1735,1736,A woman is cooking broccoli.,A man is eating his food.,0
+871,1737,1738,A man is frying a tortilla.,A person is performing a card trick.,0
+872,1739,1740,A woman serving volleyballs over a net.,One woman hands volleyballs to another woman who serves them.,1
+873,1741,1742,A man is slicing cucumber with a knife.,A man is cooking a tortilla in a skillet.,0
+874,1743,1744,A man is playing an electronic keyboard.,A band is playing instruments.,0
+875,1745,1746,A man is playing a violin.,The baby is laughing and crawling.,0
+876,1747,1748,A man severs the toe of an empty leather boot using a sword.,A man is cutting a boot with a sword.,1
+877,1749,1750,The person is removing the scales from the fish.,A person is descaling a fish.,1
+878,1751,1752,People are walking in the garden.,One boy is talking with other man.,0
+879,1753,1754,A young child rides a horse.,The little girl rode a horse.,1
+880,1755,1756,A person is cutting garlic into pieces with a knife.,Someone is putting ingredients into a wok.,0
+881,1757,1758,A man is folding a piece of paper.,A man is slicing a plastic container with a sword.,0
+882,1759,1760,The man was pushed into the water.,A man pushes another man into the ocean.,1
+883,1761,1762,A boy is upset playing video games.,Someone is playing a gameboy.,1
+884,1763,1764,A man makes a call on a cell phone.,A man is making a phone call.,1
+885,1765,1766,A man is speaking on a phone.,A panda bear is chewing on a stick.,0
+886,1767,1768,A woman is applying cosmetics to her face.,A woman is putting on makeup.,1
+887,1769,1770,The man lifted barbells.,A man lifts weights.,1
+888,1771,1772,A woman feeds an animal by hand.,The women are feeding the animal.,1
+889,1773,1774,Several ferrets climb out of their cage.,Ferrets climb down from a shelf.,1
+890,1775,1776,A young woman is playing the flute.,A woman is washing off the top of a freezer.,0
+891,1777,1778,A woman shoots a shotgun.,The woman is shooting a rifle.,1
+892,1779,1780,A person is adding chili powder to chili with beans.,The man is adding seasoning to the beans.,1
+893,1781,1782,A woman rapidly fires a handgun.,A woman is shooting off a gun.,1
+894,1783,1784,A person is slicing an onion.,A solenodon is walking along the ground.,0
+895,1785,1786,A dog is opening a fridge.,A dog closes a refrigerator door.,0
+896,1787,1788,A woman is holding a dancing baby up.,A woman is abusing her child.,0
+897,1789,1790,A woman is doing a joker make up on a man.,The girl applied face makeup to a man.,1
+898,1791,1792,The lady added cheese to the sauce.,A man pours a plate of shredded cheese into a pot of sauce.,0
+899,1793,1794,A man is giving a lecture on a podium.,A man is delivering a lecture at an event celebrating the game of cricket.,1
+900,1795,1796,The cat shimmied under the bed.,A cat is crawling upside down under the couch.,1
+901,1797,1798,A woman is chopping garlic.,A woman slices a fish.,0
+902,1799,1800,A man is cutting grass.,A masked man sings.,0
+903,1801,1802,A man is cutting grass.,A clown is singing.,0
+904,1803,1804,A boy runs away from his fishing line.,A boy is running in front of fish hanging on fishing rod.,1
+905,1805,1806,The man played haki sak in the office.,The man is seasoning the vegetables.,0
+906,1807,1808,A man is carrying another man on his back.,A man is taking pictures of ant.,0
+907,1809,1810,Meat is dropped into a pan.,A woman is putting meat in a pan.,1
+908,1811,1812,A woman is cutting scallions.,A woman falls on a sand castle.,0
+909,1813,1814,A man is slam dunking a ball.,A woman is slicing some onions.,0
+910,1815,1816,A machine is sharpening a pencil.,A girl is riding a bicycle.,0
+911,1817,1818,A woman is brushing her feet.,The sun is rising behind trees.,0
+912,1819,1820,A man is cleaning the windows.,A man is driving a car.,0
+913,1821,1822,A person is stirring rice.,A woman is cracking an egg.,0
+914,1823,1824,A man puts a knife in a vice.,A man is dancing.,0
+915,1825,1826,A boy plays violin on stage.,A boy is onstage playing the violin.,1
+916,1827,1828,A woman cuts a pink loaf with a knife.,A man is playing a guitar.,0
+917,1829,1830,A man is adding pork chops to a pan.,A woman is peeling a potato.,0
+918,1831,1832,The men are fighting each other.,The man drew on the white paper.,0
+919,1833,1834,A man is catching a ball.,A cat is rubbing against a baby.,0
+920,1835,1836,A girl is reading a newspaper.,A chef is peeling a potato.,0
+921,1837,1838,A slow loris bites a persons fingers.,A small animal is chewing on a finger.,1
+922,1839,1840,A man is walking along a path through wilderness.,A man is peeling an onion.,0
+923,1841,1842,The man played his guitar.,A guy is singing while playing his guitar.,1
+924,1843,1844,Some men are skating on the road.,Two boys are skate boarding.,1
+925,1845,1846,A man pours liquid into a pan.,The chef poured oil in the pan.,1
+926,1847,1848,A boy is playing piano and singing.,A pig is agitating a lion.,0
+927,1849,1850,A cat and a ferret are playing.,A ferret and kitten play together.,1
+928,1851,1852,A monkey is walking through the water.,A guy is playing a trumpet.,0
+929,1853,1854,A woman is putting on makeup.,A band is singing.,0
+930,1855,1856,A dog is driving a car.,A guy is talking into a microphone.,0
+931,1857,1858,The man sang on stage into the microphone.,A man in a suit is standing at a microphone and singing.,1
+932,1859,1860,A car backs out of a space.,A car is taking reverse.,1
+933,1861,1862,A man is holding a frog.,A man is emptying a plastic container.,0
+934,1863,1864,A man is traveling in a boat.,A woman is cutting up a carrot with a knife.,0
+935,1865,1866,The man rode his motorcycle down the highway.,A person is driving a motorcycle on a road.,1
+936,1867,1868,A man is dicing an onion.,The man is playing the guitar.,0
+937,1869,1870,A man performs on a stage.,A man guts a fish.,1
+938,1871,1872,The women are sitiing down.,Two women are sitting close to each other and talking.,1
+939,1873,1874,A man removes a couple of toaster scrambles from a plastic packet.,A man removes food from a bag.,1
+940,1875,1876,A woman is dancing by a fire.,A man ties a noose.,0
+941,1877,1878,A man is meditating.,The man is riding the horse.,0
+942,1879,1880,A boy is cutting paper.,A man is loading a rifle.,0
+943,1881,1882,The man talked on the telephone.,Girls are walking on the stage.,0
+944,1883,1884,A man is playing the guitar and singing.,A man is opening a package containing headphones.,0
+945,1885,1886,the soccer player kicked the ball side to side between his legs.betweenhis feet.,A person is kicking a soccer ball back and forth betweenhis feet.,1
+946,1887,1888,An animal is walking.,A woman is applying eye makeup.,0
+947,1889,1890,Someone is scratching an animals belly.,A woman is stroking a lemur.,1
+948,1891,1892,A man is lifting heavy weights.,A wallaby is licking a woman's hand.,0
+949,1893,1894,A boy is playing with a toy.,A boy plays a handheld game.,1
+950,1895,1896,A man dives off of a cliff.,A man is riding a motorcycle.,0
+951,1897,1898,A man is coming out into the water.,A man rises from a swamp.,1
+952,1899,1900,A man and woman dance.,A man is petting a dog.,0
+953,1901,1902,A man is sweeping the floor of a house using a long broom.,The man swept the empty living room.,1
+954,1903,1904,A group of couples are dancing.,Men and women are dancing slowly.,1
+955,1905,1906,A man is scaling a fish.,A man pours some cooking oil into a pot.,0
+956,1907,1908,The man set up his camera to take sunset pictures at the beach.,A man is taking pictures of a lake.,1
+957,1909,1910,Someone is holding and petting a baby tiger.,Someone is rinsing a large beef steak at the kitchen sink.,0
+958,1911,1912,The man is playing the guitar.,The cat cleaned his face with his paw.,0
+959,1913,1914,The man did pushups on a wall.,The man tased the food.,0
+960,1915,1916,A woman cuts up a vegetable.,A woman is slicing egg plant.,1
+961,1917,1918,A person breaks an egg into a small bowl.,A man cracks an egg.,1
+962,1919,1920,A man is playing keyboards.,A man is riding a mechanical bull.,0
+963,1921,1922,A dog is running around a yard.,A black pet dog runs around in the garden of a house.,1
+964,1923,1924,A child is walking down the street as a jeep pulls up.her.,A woman is walking along a road and a man in a motorcar pulls upbeside her.,1
+965,1925,1926,A man is adding oil to a pot.,A dog is catching a fish in a river.,0
+966,1927,1928,The girl danced in front of the bonfire.,A woman is dancing to music standing near a bonfire.,1
+967,1929,1930,A man is chopping butter into a container.,A woman is cutting shrimps.,0
+968,1931,1932,A girl is dragged downhill by a dog.,A dog is pulling a child down a hill.,1
+969,1933,1934,The man took off his sunglasses while talking.,A man wearing a hard hat removes his glasses as he speaks.,1
+970,1935,1936,The two men did a funny skit with a boxer in front of a crowd of people.,Boys are dancing in front of people.,1
+971,1937,1938,The girl is tiding up her bed.,A woman is making a bed.,1
+972,1939,1940,Someone is cooking onions.,A man is swinging nunchucks.,0
+973,1941,1942,The man is using a sledghammer to break the concrete block that is on the other man.lying on a prone man with a sledge hammer.,A man breaks a slab of concrete thatis lying on a prone man with a sledge hammer.,1
+974,1943,1944,The lady put the dried noodles in the hot water to cook.,A woman places a container of noodles in a pan of water.,1
+975,1945,1946,The girls danced on the stage.,A girl is putting on makeup.,0
+976,1947,1948,A panda bear is laying down.,A baby panda relaxes on some logs.,1
+977,1949,1950,"Two kids are playing in a swimming pool with a green colored crocodile float.a pool.""","Two kids push an inflatable crocodile aroundin a pool.""",1
+978,1951,1952,A couple of policewomen are singing karaoke.,Two women are dancing.,0
+979,1953,1954,A man is putting broccoli into water.,A person is peeling a potato.,0
+980,1955,1956,The doctor was helping the patient.,Doctors are trying to revive a man.,1
+981,1957,1958,Someone is grating onion into water.,A person grates a potato into a bowl.,0
+982,1959,1960,A baby is talking.,A boy is trying to say firetruck.,1
+983,1961,1962,A woman boils eggs.,A woman places two eggs into a pot of water.,1
+984,1963,1964,A woman puts ingredients in a whisked egg.,A man pours gasoline.,0
+985,1965,1966,A woman is slicing mango.,A man is putting cheese on a tortilla.,0
+986,1967,1968,A girl is slicing a butter into two pieces.,A woman is slicing tofu.,0
+987,1969,1970,A man is playing the guitar.,A person is slicing a meat into pieces.,0
+988,1971,1972,A man is opening a package containing headphones.,A woman is riding a horse.,0
+989,1973,1974,A girl is playing a guitar.,A boy is playing a key-board between the people.,0
+990,1975,1976,A little girl plays the violin on a beach.,The girl sat on the couch to crochet.,0
+991,1977,1978,A monkey is karate kicking at someone's gloved hand.,A monkey pratices martial arts.,1
+992,1979,1980,A female applies something to he hair with her hands.,A cat is eating a slice of watermelon.,0
+993,1981,1982,A man is karate kicking at another man wearing protective boxing gloves.,A man is kick boxing with a trainer.,1
+994,1983,1984,The man is playing the wooden flute.,A little boy is vacuuming the floor.,0
+995,1985,1986,A young woman is playing a guitar.,A woman cuts up some meat.,0
+996,1987,1988,The men are playing soccer.,A man is riding a motorcycle.,0
+997,1989,1990,A woman is running on the beach.,A dog is swimming in a pool.,0
+998,1991,1992,A man is straining pasta.,A man plays a wooden flute.,0
+999,1993,1994,Panda's play on a swing.,A man is playing guitar.,0
+1000,1995,1996, A blue motorcycle is parked on the on the sidewalk., A blue moped parked on the sidewalk.,1
+1001,1997,1998,Two green and white trains sitting on the tracks.,Two green and white trains on tracks.,1
+1002,1999,2000,A small white cat with glowing eyes standing underneath a chair.,A white cat stands on the floor.,0
+1003,2001,2002,A large boat in the water at the marina.,A large boat on the sea.,1
+1004,2003,2004,bus driving in a street.,Red double decker bus driving down street.,1
+1005,2005,2006,A passenger train waiting in a station.,A passenger train sits in the station.,1
+1006,2007,2008,a woman at a dinner table writing on her notebook.,Woman at table busy with something.,0
+1007,2009,2010,An Apple computer sitting on the floor.,A Macintosh computer sitting on the floor.,0
+1008,2011,2012,A close-up of a brown horse's head.,A side view of a horse's head.,0
+1009,2013,2014,A group of people eat at a table outside.,Group of elderly people sitting around a table.,0
+1010,2015,2016,A jockey riding a horse.,A jockey riding a horse in a pen.,0
+1011,2017,2018,man is riding a motorcycle down the road.,A man is riding a red motorcycle on the road.,1
+1012,2019,2020,A woman riding a brown horse.,A young girl riding a brown horse.,1
+1013,2021,2022,kid jumping a ledge with a bike.,A black and white cat playing with a blanket.,0
+1014,2023,2024,black dog standing in front of yellow flowers.,A black dog standing in a field.,0
+1015,2025,2026,Close up of a bottle of water.,A close up view of a bottle of water.,1
+1016,2027,2028,A close up of a brown faced cat.,A close up of an ostrich face.,0
+1017,2029,2030,sheep standing in afield.,A sheep grazing in a field.,0
+1018,2031,2032,A longed-haired cat with it's eyes closed.,A close up of a cat with its eyes closed.,0
+1019,2033,2034,A woman in a gray shirt smiles for the camera while the woman behind her makes a face.,A woman with a surprised look on herface is holding a smiling woman from behind.,0
+1020,2035,2036,A silver and blue Amtrak train on the tracks near a small train station.,A small white car parked at the gas station.,0
+1021,2037,2038,person in a blue shirt reclines near a coffee table and television.,A person stands on the motorcycle seat and pops a wheelie.,0
+1022,2039,2040,A black and white photo of a woman showing a horse.,a black and white photo of cows in their stalls.,0
+1023,2041,2042,A dark brown horse standing in a field.,A brown horse stands in a lush green field.,1
+1024,2043,2044,pitched tent with a horse in the background.,A black and white lamb with other lambs in the background.,0
+1025,2045,2046,group of people sitting around a table with food on it.,A group of people sit around a table with food and beer.,1
+1026,2047,2048,A brown horse stands in a lush green field.,A brown horse in a green field.,1
+1027,2049,1919,black and white cow in hay.,A black and white cow in a pen with hay.,0
+1028,2050,2051,elderly woman stands in a kitchen with two cats at her feet.,"The old lady is standing in the kitchen with two cats at herfeet.""",1
+1029,2052,2053,school bus is driving uphill on a rural road.,A race care driving along a dirt road.,0
+1030,2054,2055,Camouflage airplane sitting on grassy field.,A camouflaged plane sitting on the green grass.,1
+1031,2056,2057,Three young women standing in a room together.,Two Indian women with two Indian girls near the water.,0
+1032,2058,2059,double decker bus driving through the streets.,Double decker passenger bus driving with traffic.,1
+1033,2060,2061,A white sheep on a hillside looking at the camera.,The skinny cows are standing on the grass.,0
+1034,2062,2063,A group of sheep in a field.,A group of horses grazing in a field.,0
+1035,2064,2065,close-up,close-up,1
+1036,2066,2067,crowded office desk with computer monitor on.,Messy computer desk with two monitors.,0
+1037,2068,2069,A man sitting in a cluttered room.,A man lies in a bed in a cluttered room.,0
+1038,2070,2071,Two white cows in a green pasture.,The tan horse is in the pasture.,0
+1039,2072,2073,Black cow walking under trees in pasture.,Cow walking under the tree in a pasture.,1
+1040,2074,2075,Two people sitting at a table at a restaurant.,four people sitting at a table.,0
+1041,2076,2077,A smiling woman with a beer sitting outside with another smiling woman.,Two women sitting outside laughing.,1
+1042,2078,2079,A bird holding on to a metal gate.,A multi-colored bird clings to a wire fence.,0
+1043,2080,2081,The skinny cows are standing on the grass.,The white ducks are standing on the ground.,0
+1044,2082,2083,A women laying across two men sitting on a sofa.,A man and two women smiling at the camera while sitting on a blue sofa.,0
+1045,2084,2085,a woman with a big necklace.,A young woman with a black top and a necklace.,0
+1046,2086,2087,Brown cow with horns standing in a field.,Brown horse standing in middle of grassy field.,0
+1047,2088,2089,A cruise liner docked at the shoreline.,A cruise ship docked at shore.,1
+1048,2090,2091,Black and white cat lying under bush.,The black and white cat with yellow eyes lounges in the dirt.,0
+1049,2092,2093,Brown and white cow standing in grass at side of road.,A brown and white cow standing in a grassy area with trees behind.,1
+1050,2094,2095,A small dog looking up at the camera while standing on grass.,"A man and women smiling at the camera while standing in akitchen.""",0
+1051,2096,2097,A tan calf with a yellow tag on his left ear looking at the camera.,"A man with glasses and two plastic bottles in theforeground.""",0
+1052,2098,2099,and white photo of couch with purse at one end.,a black and white photo of a cow under a tree.,0
+1053,2100,2101,Two men on boat floating on the water.,Large green boat floating on water.l.,0
+1054,2102,2103,This is a rear view of a Chevrolet sports car.,The rear view of a red Chevrolet concept car.,0
+1055,2104,2105,A person wearing a helmet rides a bike near a white structure.,"A person wearing a bike helmet rides a bike on a path throughtrees.""",0
+1056,2106,2107,A black and white photo of an old train station.,A black and white photo of a motorcycle laying on the ground.,0
+1057,2108,2109,A grey and white tabby cat is sleeping on purple fabric.,Black and white cat sleeping on a brown tarp.,0
+1058,2110,2111,woman holding a small baby.,A smiling woman holding a small baby.,1
+1059,2112,2113,Group of horses grazing in grassy field.,A group of horses grazing in a field.,1
+1060,2114,2115,Three men are sitting down at a table that has drinks on it.,Three men sitting at the table with beer and food.,1
+1061,2116,2117,Two people dressed in white standing on a grass field.,A person is standing underneath an overpass near a highway.,0
+1062,2118,2119,An orange tabby cat sleeping on the sofa.,A man is watching TV on the foot of his bed.,0
+1063,2120,2121,Two Eagles perched on a branch.,Two bald eagles perched on a branch.,1
+1064,2122,2123,A striped cat laying down on a bag of cat litter.,Domestic cat laying on back of cat litter.,1
+1065,2124,2125,A man and small child in a living room posing for the camera.,A man and woman are posing for the camera.,0
+1066,2126,2127,home office with three computer monitors and other equipment on a desk.,Room with several computer monitors.,1
+1067,2128,2129,Five birds stand on the snow.,Several cardinals stand in the snow.,0
+1068,2130,2131,A black vehicle parked with a vies of low-lying mountains.,A black car parked in the dirt out in the country.,0
+1069,2132,2133,A passenger train in the snow.,A passenger train waiting in a station.,1
+1070,2134,2135,black bird is sitting on the ground.,A blackbird sitting on the ground.,0
+1071,2136,2137,black and white bull is looking at the camera.,A black and white dog looking at the camera.,0
+1072,2138,2139,A young girl riding a white and grey horse.,A young blonde girl in riding gear sits on top of a gray and white horse.,1
+1073,2140,2141,A black and white sheep is walking next to a white sheep.,Little black and white calf with a tag on its ear.,0
+1074,2142,2143,living room with a dining table in the background.,A boy doing a wheelie on a plank with the beach in the background.,0
+1075,2144,2145,The dining room table gets some afternoon sun.,Dining room with wooden dining table set with playmates.,0
+1076,2146,2147,A red moped parked on a sidewalk in front of graffiti.,The red scooter is sitting on the street in front of the building.,0
+1077,2148,2149,The seagull is floating on the water.,A little bird floating in the water.,1
+1078,2150,2151,black dog stands next to materials at a construction site.,"An Asian toddler girl sits next to a pot of flowers on a marblepost.""",0
+1079,2152,2153,A woman posing in front of an apartment building in the snow.,A woman stands in front of a building in the snow.,1
+1080,2154,2155,cows are grazing beside the road.,Several sheep grazing in the field.,0
+1081,1863,2156,Two mountain goats grazing in front of an alpine lake.,Two animals grazing next to a mountain,1
+1082,2157,2158,Black and white cows behind a fence.,Two black and white cows behind a metal gate against a partly cloudy blue sky.,1
+1083,2159,2160,passenger train waiting in a station.,A passenger train waiting at the city train station.,0
+1084,2161,2162,A white animal running through snow covered woods.,A white dog runs through a snow covered wood.,1
+1085,2163,2164,man sitting on the grass looking toward the sky.,The train is riding on the tracks in the snow.,1
+1086,2165,2166,black,black,1
+1087,2167,2168,A silver bicycle is parked in a living room.,A bicycle in a dining room.,1
+1088,2169,2170,Black train on train tracks.,A train on the train tracks.,1
+1089,2171,2172,Black train on train tracks.,A train on the train tracks.,1
+1090,2173,2174,orange tabby cat sleeping on the sofa.,Man wearing a bib sitting on a green couch.,1
+1091,2175,2176,The bald eagle is perched on a rope.,Two bald eagles perched on a branch.,1
+1092,2177,2178,couple posing for a picture on a couch.,Young couple sitting on couch.,1
+1093,2179,2180,men are playing a guitar and having a drink.,There is a young boy with a red and blue jacket on feeding a sheep.,0
+1094,2181,2182,Two cats sitting together on the sofa looking out the window.,Two cats are looking at a window.,1
+1095,2183,2184,Red double decker bus.,Red double decker bus with hood up.,1
+1096,2185,2186,close-up of an animal with a long face standing on grass near a tree.,"A close-up of a woman with black boots next to a bluemotorcycle.""",0
+1097,2187,2188,A brown and white dog sits on a floral-patterned chair.,A small orange and white dog with a collar and a bell relaxes on a flower print pillow.,0
+1098,2189,2190,A group of people sitting at a restaurant table.,A group of people sitting around a table with food on it.,1
+1099,2191,2192,sheep on to of a cliff looking at the camera.,Two sheep are standing,0
+1100,2193,2194,A black and white photo of an empty train station.,a black and white photo of a cat lying down.,0
+1101,2195,2196,A row of locomotives on a siding in a field.,A dark brown horse standing in a field.,0
+1102,2197,2198,A white Apple computer sits on the beige carpeting of a bedroom.,An Apple computer sitting on the floor.,0
+1103,2199,2200,a dog napping under a small table.,A dog sleeping under a table.,1
+1104,2201,2202,A boat with four sails is sailing on water.,Sail boat sailing on the water.,1
+1105,2203,2204,Red sports car racing down track.,A red sports car driving quickly on a track.,1
+1106,2205,2206,Black bird sitting on a concrete slab.,Small dog sitting next to white wall.,0
+1107,2207,2208,A Victory Liner bus is white with red and gold stripes.,A white tour bus with red,0
+1108,2209,2210,Red double decker bus on side of street.,A red double decker bus on a city street.,0
+1109,2211,2212,A group of river barges with trees in the background.,A young girl wearing a bike helmet with a bicycle in the background.,0
+1110,2213,2214,The seagull is floating on the water.,Large cruise ship floating on the water.,0
+1111,2215,2216,motorcycle parked next to a car.,A BMW motorcycle parked between two cars.,0
+1112,2217,2218,cat looking out the window.,A cat looking out of a window.,1
+1113,2219,2220,a black and white photo of a cow under a tree.,A black and white photo of a cow walking under a tree in a field.,1
+1114,2221,1093,A potted plant in sunlight from a window.,A potted plant with only a few sprouting.,0
+1115,2222,2223,Four people are rowing a boat near the shore.,four people are on a boat on green water.,1
+1116,2224,2225,girl in a red shirt is riding a brown horse.,A tan and white dog laying in bed with a yellow coverlet.,0
+1117,2226,2227,There is a small desk and chair in front of the laundry room.,A room with tan walls and a washer and dryer.,0
+1118,2228,2229,Amtrak passenger train waiting at a station.,A passenger train waiting in a station.,1
+1119,2230,2231,A large jet on the ground at the airport.,A passenger jet flies through the air.,0
+1120,2232,2233,young girl wearing a helmet riding a pony.,A girl wearing a red blouse riding a brown horse.,0
+1121,2234,2235,People sitting on the porch.,People sitting on acouch.,1
+1122,2236,2237,Two horses standing in a pen.,A group of horses grazing in a field.,0
+1123,2238,2239,The red train and the yellow train on on the tracks.,Two trains are traveling on the track.,1
+1124,2240,2241,people sitting at a table at a restaurant.,A group of people sitting around a table on a porch.,1
+1125,2242,2243,A lamb stands near two tiny animals.,A sheep standing near her children.,0
+1126,2244,2245,A person riding a dirt bike in the outdoors.,A person jumping a motorbike in the air.,0
+1127,2246,2247,Tan cow with ear tags on a grassy field.,Many sheep standing on a green hill.,0
+1128,2248,2249,Sail boat sailing on the water.,Sail boat floating on the blue water.,1
+1129,2250,2251,a woman with a viking hat on.,Smiling woman sitting wearing a viking hat.,1
+1130,2252,2253,Parked white double decker bus.,A red and white double decker bus is parked.,1
+1131,2254,2255,A field of black faced sheep.,A black faced sheep.,1
+1132,2256,2257,birds are perched on a metal band.,Two small birds perched on a metal bar.,1
+1133,2258,2259,Table with blue table cloth in kitchen.,Wooden cabinets in kitchen.,0
+1134,2260,2261,young woman with a bracelet is wearing a bikini top and jeans.,A women wearing a bikini top and jeans.,1
+1135,2262,2263,brown horse grazing in a field of green grass.,Brown horse standing in middle of grassy field.,1
+1136,2264,2265,A pot of liquid is at the center of a tinfoil covered plate.,A pot of food is placed in the center of a red tablecloth.,0
+1137,2266,2267,A black and white cow standing in a grassy field.,A blue jay standing in a grassy field.,1
+1138,2268,2269,A yellow and blue airplane is flying in the sky.,The white airplane is flying in the blue sky.,0
+1139,2270,2271,women sitting in a chair at Christmas holding make up.,A train sitting on the tracks in a train yard.,0
+1140,2272,2273,Four Asian young people sitting in a den or living room.,A girl sitting in a living chair.,1
+1141,2274,2275,Train going down the tracks.,Train gliding on tracks.,1
+1142,2276,2277,A young woman dressed in black.,Two young kids dressed up sitting down on chairs.,0
+1143,2278,2279,of people sitting at table with drinks.,four people sitting at a table.,1
+1144,2280,2281,plane flying at a distance.,A woman with a white horse.,0
+1145,2282,2283,A group of river barges with trees in the background.,A group of cows in a field with yellow tags in their ears.,0
+1146,2284,2285,A living room with a dining table in the background.,A living room with large sofas and a dining table in the background.,0
+1147,2286,2287,striped cat resting on blue sofa.,An orange tabby cat sleeping on the sofa.,0
+1148,2288,2289,passenger train coming into a station.,A large bird is flying through the air.,0
+1149,2290,2291,Two people paddling in a red canoe with trees in the background.,Two people padding in a yellow canoe down a river withtrees in the background.,1
+1150,2292,2293,A black train moves down the tracks.,Black train idle on the tracks.,0
+1151,2294,2295,A white jeep parked in front of a store.,A white Jeep parked on a street.,1
+1152,2296,2297,Two women standing in front of tour bus.,Two men talking in front of a plane.,0
+1153,2298,2299,man rides a large black motorbike.,A child sits in a large black leather chair.,0
+1154,2300,2301,A bicycle is parked outside a bookstore.,People stand outside a bookstore.,0
+1155,2302,2303,Plane in mid-flight at sunset.,A plane flying near the sunset.,1
+1156,2304,2305,Two red buses parked up with gardens in front of them.,Red buses are parked by a large white building beside a formal garden.,1
+1157,2306,2307,A yellow parrot clings to the side of its cage.,A yellow and orange bird hold on to the side of a cage.,0
+1158,2308,2309,sailing in a small sailboat.,Two men sailing in a small sailboat.,1
+1159,2310,2311,A silver and blue motorcycle sitting next to a car.,A motorcycle parked next to a car.,1
+1160,2312,2313,double decker bus.,A red,0
+1161,2314,2315,Feet standing on a pretty day with large building in background.,"Two police officers standing behind a van with a bus inthe background.""",0
+1162,2316,2317,A small white dog chews on a twig while lying on a wooden deck.,"The white dog is laying on the wooden floor underneath thetable.""",0
+1163,2318,2319,Man standing in front of silver train.,Man standing in front of a silver rail car.,0
+1164,2320,2321,close-up of a sheep with its tongue hanging out.,Close up image of a sheep with it's tongue hanging out.,1
+1165,2322,2323,A black and white horned cow standing in a field.,a black and white cow standing in the field.,1
+1166,2324,2325,man riding a white horse in an arena.,A man riding a white horse.,1
+1167,2326,2327,A train sitting on the tracks near a field.,A train traveling down the tracks.,0
+1168,2328,2329,A women and small child sitting at a dinner table smiling at the camera.,"A small cat laying on a wooden beam looking up atthe camera.""",0
+1169,2330,2331,A buddha statue sits on a table with a wooden table runner.,A bird standing on top of a wooden fencepost.,0
+1170,2332,2333,red buses driving in front of a garden.,Train pulling into a station.,0
+1171,2334,2335,Cows grazing in a snow covered field.,Five cows grazing in a snow covered field.,1
+1172,2336,2337,A man riding a white horse.,A woman riding a brown horse.,0
+1173,2338,2339,Man with blue shirt standing in front of a fountain.,A man in a blue shirt and tan pants is standing in front of a statueof a,0
+1174,2340,2341,girl in riding gear sits atop a brown horse.,A girl in a red shirt is riding a brown horse.,1
+1175,2342,2343,A clear plastic chair in front of a bookcase.,a clear plastic chair in front of book shelves.,1
+1176,2344,2345,dog is wearing a gray jacket.,A dog laying in a pet jacket.,0
+1177,2346,2347,sheep stands on a hillside.,A large sheep standing on a hill.,1
+1178,2348,2349,A black and white cow standing in a grassy field.,a black and white cow standing in the field.,1
+1179,2350,2351,woman in a black bikini top and jeans.,A woman in a black hat is standing by the subway.,0
+1180,2352,2353,A girl riding a brown horse.,The jockey is wearing purple and riding a brown horse.,0
+1181,2354,2355,Man standing in front of yellow corvette.,A man is standing next to a yellow sports car.,0
+1182,2356,2357,man sitting on the grass looking toward the sky.,The man is standing on the sidewalk in front of the horse.,0
+1183,2358,2359,A man poses in front of a large fountain with a statue on top.,Man with blue shirt standing in front of a fountain.,0
+1184,2360,2361,A white cat standing on a carpet.,A sheep standing in a forest.,0
+1185,2362,2363,flat screen TV on the floor.,A flat-screen TV sits on the floor.,1
+1186,2364,2365,brown horses standing in grassy field.,Two men sailing in a small sailboat.,0
+1187,2366,2367,Two sheep stand in a doorway.,Two rams stand on snowy ground.,0
+1188,2368,2369,with several computer monitors.,A room with four computer monitors in a row.,1
+1189,2370,2371,A line outside of a bookstore on a street.,The yellow motorcycle is parked on the street.,0
+1190,2372,2373,A passenger jet sits on a runway.,A large passenger jet flying close to the ground.,0
+1191,2374,2375,Old green bottle sitting on a table.,Three men in suits sitting at a table.,0
+1192,2376,2377,white horses staring over a fence.,Two horses standing in a pen.,0
+1193,2378,2379,black and white cows pause in front of the gate.,The white airplane is flying in the sky.,0
+1194,2380,2381,black and white cow standing in a grassy field.,A black and white horned cow standing in a field.,1
+1195,2382,2383,a black and white photo of a cat lying down.,A black and white image of a cat laying on a rug.,1
+1196,2384,2385,A man and woman stand,A man and woman stand,1
+1197,2386,2387,orange and white cat asleep on a leather chair.,A ginger cat sitting on an office chair.,0
+1198,2388,2389,A white cat standing on a carpet.,A pretty white striped cat with his head hanging off the table.,0
+1199,2390,2391,Grey and white domestic kitten lying down on a desk.,A man and his bicycle laying down on the green grass.,0
+1200,2392,2393,woman posing in front of an apartment building in the snow.,White bus parked in grass in front of building.,0
+1201,2394,2395,A young woman with a bracelet is wearing a bikini top and jeans.,A woman wearing jeans,0
+1202,2396,2397,table and chairs are in a room with a picture on the wall and a ceiling fan.,A school bus driving down a road with greentrees and grass in the backgro,0
+1203,2398,2399,A man sits crossed legged on a bed watching a small TV.,A man sits on a bed very close to a small television.,1
+1204,2400,2401,The headlights on a blue car.,Close up of the headlights on a blue car.,0
+1205,2402,2403,A passenger train coming into a station.,A passenger train sits in the station.,1
+1206,2404,2405,airplane facing the camera.,A lone cow sits in the cold of the yard.,0
+1207,2406,2407,A woman riding a brown horse.,A person dressed in white on a brown horse.,0
+1208,2408,2409,a jockey riding a horse.,A jockey riding a horse in a pen.,1
+1209,2410,2411,The two dogs blend in with the stuff animals.,Two dogs sit on a couch with many stuffed animals.,1
+1210,2412,2413,train is running on the tracks.,A train is running down the track in a rural area.,1
+1211,2414,2415,Someone standing on a snowy mountain,Someone standing on a snowy mountain,1
+1212,2416,2417,A bird is flapping its wings in the water.,A large black bird is sitting in the water.,1
+1213,2418,2419,A cruise liner docked at a port.,A cruise ship docked at a coast.,1
+1214,2420,2421,red double decker bus on a crowded street.,A white bus partially in the snow on a public street.,1
+1215,2422,2423,A woman pets a dog in a fenced area.,A woman pets a dog in a gated yard.,1
+1216,2424,2425,A black and white cat playing with a blanket.,A black and white cat gets into a basket of yarn.,0
+1217,2426,2427,A man on a mountain bike going down an incline.,This is a man riding a mountain bike over rocks on a clear day.,0
+1218,2428,2429,A cat reclines on an office chair.,A ginger cat sitting on an office chair.,1
+1219,2430,2431,A group of horses grazing in a field.,A brown horse grazing in a field of green grass.,1
+1220,2432,2433,group of people having a drink.,A row of locomotives on a siding in a field.,0
+1221,2434,2435,dogs in a fenced kennel look ahead.,Two woman pose in a dining room with a baby.,0
+1222,2436,2437,Three sheep on a dirt road viewed from a passenger vehicle.,Three sheep in middle of gravel road.,0
+1223,2438,2439,yellow and blue airplane is flying in the sky.,Nine red and white aircraft flying in formation trailing smoke.,0
+1224,2440,2441,train sits at the train station.,The blue train is at the station.,1
+1225,2442,2443,train sitting on the tracks near a field.,A baby is sitting in the grass.,0
+1226,2444,2445,Red double decker bus taking on passengers.,A red double decker bus is picking up more passengers in a city.,1
+1227,2446,2447,guys sit on a couch holding beers with a girl lying on their laps.,Two women watching the street with their bikes to see whenthey may cross.,0
+1228,2448,2449,Two women in the kitchen looking at a object.,Two women in kitchen with one taking a picture.,0
+1229,2450,2451,A race horse galloping without a rider.,A horse galloping while wearing the number 4.,0
+1230,2452,2453,A steam engine and train moving toward the camera.,A large bird of prey flying towards the camera.,0
+1231,2454,2455,A black and white photo of a glass bottle of Coca Cola.,This is a black and white picture of a short squat Coca-cola bottle.,0
+1232,2456,2457,A small bird perched on an icy branch.,A yellow bird perched on a branch.,1
+1233,2458,2459,Boy with glasses typing on a computer.,A boy looking at a computer screen.,0
+1234,2460,2461,A red truck spins their tires while a black one leaves the frame.,Red truck spinning tires and emitting smoke from behind.,1
+1235,2462,2463,A living room with table,A living room with table,1
+1236,2464,2465,A smiling woman holding a small baby.,a woman sitting on a sofa holding a baby.,1
+1237,2466,2467,Esso gas station with trees in the background.,Two police officers standing behind a van with a bus in the background.,0
+1238,2468,2469,Four blue and yellow planes flying over four boats.,Four blue and yellow planes in flight.,1
+1239,2470,2471,horse standing near a gate with another horse in the background.,A group of river barges with trees in the background.,0
+1240,2472,2473,Three bottles are on a table.,Old green bottle sitting on a table.,0
+1241,2474,2475,A steam engine comes down a train track near trees.,A train is at a train station.,0
+1242,2476,2477,A train is at a train station.,A train parked at a train station.,1
+1243,2478,2479,a woman sitting on a sofa holding a baby.,Bird sitting on a log in a lake.,0
+1244,2480,2481,Two birds flying towards water feeder.,Two birds flying near bird feeders.,1
+1245,2482,2483,Two cows standing in a large field.,Horse standing in a field.,0
+1246,2484,2485,group of sheep grazing on a hill.,A group of sheep are on a hill.,1
+1247,2486,2487,man stands in front of a train.,A man is standing in front of a raised statue,0
+1248,2488,2489,Two women are posing for the camera and giving the thumbs up sign.,Two smiling young women giving the thumbs up sign.,1
+1249,2490,2491,A women holds a small baby while sitting on a sofa.,a woman sitting on a sofa holding a baby.,1
+1250,2492,2493,double decker red United bus on a city street.,A doubly decker red bus driving down the road.,1
+1251,2494,2495,women sitting on brown couch.,Two women standing outside of a bus.,0
+1252,2496,2497,A grey cat with green eyes looking into the camera.,A grey,0
+1253,2498,2499,bird is sitting on the branch.,The sheep is standing under the trees.,0
+1254,2500,2501,Group of people sitting at table of restaurant.,Two people sitting at a table at a restaurant.,1
+1255,2502,2503,A black and white cow stands on grass against a partly cloudy blue sky.,Two black and white cows behind a metal gate against apartly cloudy blue,0
+1256,2504,2505,A guy on a white horse.,A man riding a white horse in an arena.,1
+1257,2506,2507,Two dairy cows drinking from a pond.,Two cows are drinking from a pond.,1
+1258,2508,2509,There are several sheared sheep in a pen.,Three white sheep in an enclosure.,0
+1259,2510,2511,black dog is lying in the grass.,A black dog lies on the grass.,1
+1260,2512,2513,Two young people are sitting at a table next to a sliding glass door,Two young people are sitting at a table next to a sliding glass door,1
+1261,2514,2515,A man and a woman holding hands walking along the beach.,"A man with a beard and a skullcap and a boy walk along the ocean'sshore.""",1
+1262,2516,2517,Ten sheep looking at the camera.,A cat on its back looking at the camera.,0
+1263,2518,2519,A black and white dog looking at the camera.,A small black and white goat in a pen looking up at the camera.,1
+1264,2520,2521,black table with white fuzzy chair.,A woman with her child.,0
+1265,2522,2523,Red double decker bus taking on passengers.,A red double decker bus driving down a street.,0
+1266,2524,2525,Sail boat sailing on the water.,Sailboat sailing on a cloudy day.,0
+1267,2526,2527,A blue bird perches on the gloved hand of a person.,A bird is perched on a person's gloved hand.,1
+1268,2528,2529,A girl riding on a brown and white horse.,A girl riding a brown horse.,1
+1269,2530,2531,mostly black train on a track.,A car parked in front of train tracks.,0
+1270,2532,2533,young boy coloring with a red and blue crayon.,A young blonde girl in riding gear sits on top of a gray and white horse.,0
+1271,2534,2535,A group of people in a living room.,A group of four people walking past a giant mushroom.,0
+1272,2536,2537,mallard and a tame white duck on the grass near water.,A small child in a pink dress sits on a table.,0
+1273,2538,2539,cat is sitting between two bicycles in front of a door.,Than horse standing in a field in front of a fence.,0
+1274,2540,2541,girl with a red bag standing on the street.,A black dog is staring at a sheep.,0
+1275,2542,2543,A horse rider is riding a white horse.,A woman leading a white horse.,0
+1276,2544,2545,A long train is on train tracks.,A train on the train tracks.,1
+1277,2546,2547,black and tan dog looks at a black sheep.,A black dog looking at a brown sheep in a pen.,1
+1278,2548,2549,A room with several computers and pictures on the wall.,"A home office with three computer monitors and other equipment on adesk.""",1
+1279,2550,2551,black and white photo of a cow walking under a tree in a field.,A black and white dog looking at the camera.,0
+1280,2552,2553,A silver AreoMexico Jet Liner sitting on the tarmac.,An aeromexico silver plane is on a runway.,0
+1281,2554,2555,a man on a dirt bike jumping very high.,A man on a motorbike jumping with the sky behind him.,1
+1282,2556,2557,Two people sailing a small white sail boat.,Couple sailing in a small sailboat.,1
+1283,2558,2559,A white airplane is parked on the cement.,A blue motorcycle is parked on the sidewalk.,0
+1284,2560,2561,Three cows grazing in a field.,Several sheep grazing in the field.,1
+1285,2562,2563,The man is sitting at a messy table and using a laptop.,A man sits looking at a laptop computer on a messy table.,1
+1286,2564,2565,dining table with candles,dining table with candles,1
+1287,2566,2567,Two people paddling a red canoe are reflected in the still water.,Two people in a red canoe on a clear lake.,1
+1288,2568,2569,A scantily clad woman is standing next to a car.,A scantily clad woman standing next to a small red vehicle.,1
+1289,2570,2571,Red double decker bus taking on passengers.,Red double decker bus with hood up.,1
+1290,2572,2573,buddha statue holding a candle is sitting on a table.,A man fishing on a small boat while on a lake.,0
+1291,2574,2575,people sitting at dinner table smiling at camera.,Two elderly women sit at a dinner table with a man.,0
+1292,2576,2577,A multi-colored train on a track.,A mostly black train on a track.,0
+1293,2578,2579,A white and red bus traveling on the street.,The red bus is on the street.,0
+1294,2580,2581,A red and blue plane flying with its landing gears down.,A WWII fighter plane with its landing gear down.,1
+1295,2582,2583,boat going down a creek.,a boat moving in a river.,1
+1296,2584,2585,women and two men sit at a long table in a restaurant.,A group of people sit at a table in an Italian restaurant.,1
+1297,2586,2587,goats standing in a field by a tree.,A large boat pulling a small white boat.,0
+1298,2588,2589,black and white photo of a living room with a large window,black and white photo of a living room with a large window,1
+1299,2590,2591,Close up of a brown horse with a blue halter.,A close up of a horse wearing a blue halter.,1
+1300,2592,2593,A large black bird is sitting in the water.,The birds are swimming in the water.,0
+1301,2594,2595,A close-up of a cat on a cream sofa.,A siamese cat resting on a white sofa.,1
+1302,2596,2597,A person is jumping a bicycle and performing a trick.,A person riding a dirt bike in the outdoors.,1
+1303,2598,2599,yellow school bus is parked in a rural area.,A yellow school bus parked in a field.,1
+1304,2600,2601,A pug dog wits on a yellow chair next to a green dumpster.,"A bulldog sitting on a yellow chair beside a large wastereceptacle.""",0
+1305,2602,2603,woman is sitting on the red motorcycle.,The white sheep is standing on the green hill.,0
+1306,2604,2605,A sheep standing on a table at auction.,Woolly sheep at auction house.,0
+1307,2606,2607,close-up of a black train engine.,Close up of a white sheep with a black head.,0
+1308,2608,2609,orange and white cat asleep on a leather chair.,A orange and white cat laying on a blanket in a black leather chair.,1
+1309,2610,2611,train rides on his tracks.,The train comes down the track,1
+1310,2612,2613,Black and white cow standing in grassy field.,A black and white horned cow standing in a field.,1
+1311,2614,2615,double decker red United bus on a city street.,A double decker bus drives on a city street.,1
+1312,2616,2617,The television and desk of hotel room with lamp lighting.,A television and a laptop computer are on in a hotel room.,1
+1313,2618,2619,A man riding a small bicycle.,A man is doing a wheelie on a bike.,0
+1314,2620,2621,A woman wearing a navy dress is cutting a cake on a white table.,"A person wearing a helmet sits on a bicycle on a sunnyday.""",0
+1315,2622,2623,black train moves down the tracks.,A train traveling down the tracks.,1
+1316,2624,2625,close-up picture of a white and purple motorcycle.,A close-up picture of a desk with a computer and papers on it.,1
+1317,2626,2627,A young girl riding a brown horse.,A woman in riding a brown horse.,1
+1318,2628,2629,women in the kitchen looking at a object.,Three men in suits sitting at a table.,0
+1319,2630,2631,Two women posing with a baby.,A woman poses with a baby.,0
+1320,2632,2633,A group of people sitting around a table containing food.,Four people are sitting around a living room with.snacks.,1
+1321,2634,2635,blue motorcycle is parked on the sidewalk.,A blue moped parked on the sidewalk.,0
+1322,2636,2637,A red double decker bus on a city street.,A red double decker bus driving down a street.,1
+1323,2638,2639,Two trains inside a train station.,The train sits at the train station.,1
+1324,2640,2641,A man riding a white horse.,A woman with a white horse.,0
+1325,2642,2643,A man and two women smiling at the camera while sitting on a blue sofa.,"A man and women smiling at the camera while standingin a kitchen.""",0
+1326,2644,2645,A large cruise ship in harbor with trees behind.,A cruise ship docked at a coast.,0
+1327,2646,2647,Two cows crossing a road intersection.,Two cows cross a paved street.,1
+1328,2648,2649,cows grazing on the median by the road.,Five cows grazing on a patch of grass between two roadways.,0
+1329,2650,2651,A black cow and a brown cow stands in a plain in front of an uprooted tree.,A black cow and a brown cow standing in front of asmall copse of trees in,1
+1330,2652,2653,Red double decker bus driving down street.,A double decker bus on a city street.,1
+1331,2654,2655,Tan cow with ear tags on a grassy field.,Person in grassy field tending to sheep.,0
+1332,2656,1215,A close up of the front end of a purple and white motor cycle.,Close up of the rear of a red sports car.,0
+1333,2657,2658,Two women shopping at a clothing store.,Two women in a clothing store.,1
+1334,2659,2660,A group of people sitting at a restaurant table.,Group of people sitting at table of restaurant.,1
+1335,2661,2662,close-up of a brown horse's head.,A close-up of a yellow school bus.,0
+1336,2663,2664,person in a red cap standing next to a brick support beam.,A brown horse is standing on grass and scrub.,0
+1337,2665,2666,A bay foal is walking next to its mother in a grassy field.,Close-up of young horse walking next to a larger horse.,0
+1338,2667,2668,A women standing next to a brown cow.,A women in glasses stands next to a cow in a field.,1
+1339,2669,2670,A dog peaks out the back of a truck.,A dog is peeking out of the back of a van.,1
+1340,2671,2672,Woman in blue shift dress cutting into food.,A woman in a blue dress cuts a cake.,1
+1341,2673,2674,The black and white cat is looking up at the camera.,A grey,0
+1342,2675,2676,Two brunette girls sit atop a red an yellow motorcycle with a side car.,A couple posing on a red and yellow motorcycle.,0
+1343,2677,2678,A small white cat standing in a sink.,Grey and white cat sitting in bathroom sink.,0
+1344,2679,2680,A man on the back seat of a red tandem bicycle.,A man is alone on the back of a tandem bicycle.,1
+1345,2681,2682,computer on a desk.,A computer operating on a desk.,1
+1346,2683,2684,A small child smiling at the camera.,A small child sits on a cement wall near white flower.,0
+1347,2685,2686,A little bird floating in the water.,A duck floating in the water.,1
+1348,2687,2688,A white bus with the word Julia is near water and a big ship.,A white bus with water and a barge in the background.,0
+1349,2689,2690,Old blue and white train on tracks.,A blue train in a mountainous area.,0
+1350,2691,2692,boat on a beach.,A yellow boat on shore.,1
+1351,2693,2694,A kitchendiner with papers laying on the blue clothed dining table.,"A small kitchen and a cluttered table with a blue tablecloth.""",1
+1352,2695,2696,Train in a station.,Trains inside an indoor station.,1
+1353,2697,2698,gray cat is sitting on the window ledge looking at the camera.,The cat is standing on the window sill looking at the camera.,0
+1354,2699,2700,playing guitar while sitting down.,Red and white bus driving down road.,0
+1355,2701,2702,Red double decker bus driving down a street.,A double decker bus on a city street.,1
+1356,2703,2704,Three cows are grazing in a grassy field.,Three cows grazing in a field.,1
+1357,2705,2706,The brown train is sitting on the railroad tracks.,The white train is sitting on the tracks.,0
+1358,2707,2708,A black and white horned cow standing in a field.,A black and white photo of a cat sitting on a sofa.,0
+1359,2709,2710,A tiny blonde child in a blue dress sits on a table near her mother.,"A young blonde girl wearing a helmet sits with a redbicycle behind her.""",1
+1360,2711,2712,A group of people sitting at a restaurant table.,A group of people sitting around a table on a porch.,1
+1361,2713,2714,A black and white cow in a pen with hay.,A black and white cat lies in the dirt.,0
+1362,2715,2716,A red,A red,1
+1363,2717,2718,A close-up view of a horse's head.,A side view of a horse's head.,1
+1364,2719,2720,An old fashioned wooden sailing ship in the ocean.,A wooden yacht on the ocean.,1
+1365,2721,2722,A sheep standing in a mountainous area.,A large sheep standing on a hill.,1
+1366,2723,2724,A white plane on the runway.,A white airplane is on a runway.,1
+1367,2725,2726,A tan puppy being petted.,A tan puppy being held and petted.,1
+1368,2727,2728,Elegant dining room with wood furniture.,An elegant pink dining room with wooden furniture.,1
+1369,2729,2730,women laying across two men sitting on a sofa.,Two men in shorts are sitting on a sofa.,0
+1370,2731,2732,two motorbikes on a dirt track.,Two dirt bikers riding over dirt hill.,1
+1371,2733,2734,The black and white cat is looking up at the camera.,A black and white dog looking at the camera.,1
+1372,2735,2736,gray cat with green eyes looks at the camera.,A grey cat with green eyes looking into the camera.,1
+1373,2737,2738,Two lambs stand on a grassy hill.,Two dirt bikers riding over dirt hill.,1
+1374,2739,1071,man in white with a wine bottle and a woman in a red turtleneck with a white vest.,"A man and woman posing on a field with abottle of wine.""",0
+1375,2740,2741,A lone cow sits in the cold of the yard.,a black and white cow standing in the field.,0
+1376,2742,2743,A double decker bus drives on a city street.,A red double decker bus driving down a street.,1
+1377,2744,2745,Large black and white cat resting on a windowsill.,A small white cat sitting in a sink.,0
+1378,2746,2747,Boy feeding a sheep.,A boy feeding a sheep hay.,1
+1379,2748,2749,girl in a black desktop holds up an open box of Corn Flakes and a carton of milk.,A girl wearing black shorts and boots isstanding next to a blue motorcycl,0
+1380,2750,2751,a close up of a small cactus in a pot.,a close up of a woman holding a white puppy.,0
+1381,2752,2753,white sheep is standing on the green hill.,A sheep stands on a hillside.,1
+1382,2754,2755,black and white bird on a body of water with grass in the background.,"A bus is on a road with a ferris wheel in thebackground.""",1
+1383,2756,2757,wooden bicycle with an awning.,A group of elderly people sitting around a dining table.,0
+1384,2758,2759,A black and white photo of a dilapidated wooden fence.,A black and white photo of an old wooden fence near a dirty street.,1
+1385,2760,2761,Two brown horses standing in a green meadow.,A brown horse stands in tall grass.,1
+1386,2762,2763,Two men wearing bike helmets.,Two men stand with their bicycles outside a shop.,0
+1387,2764,2765,A man playing a video game in a store.,Man playing game in a store.,1
+1388,2766,2767,A group of people sitting around a table on a porch.,A group of people sitting around a table with food on it.,0
+1389,2768,2769,young girl wearing a bike helmet with a bicycle in the background.,"A women holds a small dog on a leash with chairs in thebackground.""",0
+1390,2770,2771,back of a stop sign with many stickers on it.,The back of the stop sign is adorned with stickers.,1
+1391,2772,2773,bicycle is parked outside a bookstore.,A green bike parked outside a book store.,0
+1392,2774,2775,a brown double decker tour bus on a street with a ferris wheel behind it.,"A double-decker bus driving in front of a ferriswheel.""",1
+1393,2776,2777,A black and white chair sitting in front of a  brick wall and  a window with bamboo plant in a vase.,A black headed sheepcovered in thick white wool stands in a pasture with,0
+1394,2778,2779,A man in a black uniform on a white horse.,A man in a tux on a white horse.,0
+1395,2780,2781,women stand in a living room with a black dog.,Two women standing in a living room with a black dog looking towards thec,0
+1396,2782,2783,Two people paddling a red canoe are reflected in the still water.,"Two people paddling in a red canoe with trees in thebackground.""",0
+1397,2784,2785,close-up view of the headlights of a blue old-fashioned car.,Close up of the headlights on a blue car.,0
+1398,2786,2787,Cars driving near a model building.,Vehicles driving infant of an ornate building.,1
+1399,2788,2789,A blue and orange airplane flying with its landing gear down.,A red and blue plane flying with its landing gears down.,0
+1400,2790,2791,black and white cat lying on a blanket.,A black and white cat sleeps on a purple blanket.,1
+1401,2792,2793,A building with a temporary sign over the entrance to its parking lot.,Road with the rear image of the tail lights of a bus.,0
+1402,2794,2795,A group of people sitting around a table containing food.,A group of people sitting around a table on a porch.,1
+1403,2796,2797,A man and women sitting on a sofa holding a small baby.,a woman sitting on a sofa holding a baby.,0
+1404,2798,2799,black and white cat lying on a blanket.,A black and white cat sleeping on its side on a purple blanket.,1
+1405,2800,2801,A black and white photo of a love seat.,A black and white photo of a bicycle.,0
+1406,2802,2803,A living room with a dining table in the background.,View of a living room with a dining room in the background.,1
+1407,2804,2805,A red and gray train is going through a tunnel.,A red and gray train travels through a tunnel amongst the trees.,1
+1408,2806,2807,Red double decker bus with hood open.,An old Red London double decker bus with its hood raised.,1
+1409,2808,2809,A man riding a white horse.,A woman leading a white horse.,0
+1410,2810,2811,View of a living room with a dining room in the background.,"A living room with large sofas and a dining table in thebackground.""",1
+1411,2812,2813,An orange kitten lay on a leather couch.,Young couple sitting on a black couch.,0
+1412,2814,2815,person wearing a bike helmet talks on a cell phone.,A person wearing a helmet rides a bike near a white structure.,0
+1413,2816,2817,A subway train pulling into the station.,A white train pulling into a station.,1
+1414,2818,2819,A bicycle is parked by a shop.,A green bike parked outside a book store.,1
+1415,2820,2821,men standing on beach.,Two women standing in front of tour bus.,0
+1416,2822,2823,Long-haired black dog standing in grassy field.,A blue jay standing in a grassy field.,0
+1417,2824,2825,A small desk with chair near a laundry closet.,A room with tan walls and a washer and dryer.,0
+1418,2826,2827,Red double decker bus driving through the streets.,Red double decker bus driving down a street.,1
+1419,2828,2829,goose flapping its wings in a body of water.,A black swan flapping its wings on the water.,0
+1420,2830,2831,Boy laying on couch with dog.,The boy is lying on a couch with a puppy.,1
+1421,2832,2833,black and white image of a cat laying on a rug.,Black and white picture of a cat laying on a rug.,1
+1422,2834,2835,A large jet on the ground at the airport.,A large airplane parked at the airport at night.,1
+1423,2836,2837,women are sitting in a cafe.,Two men catching a fish in a swamp.,0
+1424,2838,2839,bottles of Harp lager lined up on the floor.,Eight bottles of Harp beer lined up on a wooden floor.,1
+1425,2840,2841,A small child smiling at the camera.,A cat looking at the camera.,0
+1426,2842,1528,A woman riding a brown horse.,Person dressed in blue riding brown horse.,0
+1427,2843,2844,photo of a television screen showing a movie.,The wall-mounted flat-screen TV is showing a movie.,0
+1428,2845,2846,A bird perched on a flowerpot.,Bird perched on a flowerpot beside a stucco wall.,1
+1429,1373,2847,White cat sitting inside of a sink.,Grey and white cat sitting in bathroom sink.,0
+1430,2848,2849,Young woman in riding gear on top of horse.,Young girl in riding gear on a horse.,1
+1431,2850,2851,Two people are sailing a small boat.,Two women in a sailboat.,1
+1432,2852,2853,small bird on a tiny branch.,A small bird perched on an icy branch.,1
+1433,2854,2855,Two animals sitting on a rock.,Two eagles sitting on a long branch.,0
+1434,2856,2857,Two cats sit on the back of a couch looking out the window.,Two cats are sitting on the back of a couch and looking out thewindow in,1
+1435,2858,2859,Two young women shear a sheep.,Two women sheering a sheep.,1
+1436,2860,2861,The young rider takes a ride on the brown horse.,A young female rider on a brown horse.,1
+1437,2862,2863,people are seated at a restaurant table and looking into the camera.,A group of people sitting at a restaurant table.,1
+1438,2864,2865,Little white lamb with nose to wood.,A white lamb with its nose against a wooden box.,1
+1439,2866,2867,A young girl riding a white and grey horse.,a little girl is riding a white and grey horse.,1
+1440,2868,2869,A black dog stands next to materials at a construction site.,A black dog standing in a room being constructed.,1
+1441,2870,2871,A bird is flapping its wings in the water.,A black swan flapping its wings on the water.,1
+1442,2872,2873,A black and white cat lying on a blanket.,A black and white cat laying on a cat bed.,1
+1443,2874,2875,Young woman in riding gear on top of horse.,The woman is riding on the brown horse.,1
+1444,2876,2877,A plane being readied for take-off.,A small turboprop plane being loaded on the tarmac.,0
+1445,2878,2879,white leather couch with a purse and throw blanket on it.,A television with a show on.,0
+1446,2880,2881,A kitchen with wooden cabinets and furniture.,Kitchen with wooden table and cabinets.,1
+1447,2882,2883,The cat is attacking a corn husk broom.,Grey and white cat sitting in bathroom sink.,0
+1448,2884,2885,A couple holds a baby.,Couple with newborn baby.,1
+1449,2886,2887,A small bird eating from the feeder.,Bird eating from a bird feeder.,1
+1450,2888,2889,up of a white sheep with a black head.,A close-up of a sheep with a black head.,1
+1451,2890,2891,young boy laying on a sofa with a dog.,A small boy laying on a sofa with a dog.,1
+1452,2892,2893,A red bird is perched in a tree.,A small red and grey bird perched in a tree.,1
+1453,2894,2895,Two buses parked on a street.,Yellow scooter parked in an alley way.,0
+1454,2896,2897,black and white dog looking at the camera.,A grey,0
+1455,2898,2899,A train is on the railroad tracks.,A train on the train tracks.,1
+1456,2900,2901,silver locomotive engine in a shed.,A close-up of a silver train engine with a red stripe.,1
+1457,2902,2903,A women sitting at a table drinking with a basketball picture in the background.,"A woman in a sari drinks something whilesitting at a table.""",0
+1458,2904,2905,green steam engine traveling on the railroad tracks.,A black steam train traveling on the railroad tracks.,1
+1459,2906,2907,small red car on top of a semi truck.,Red sports car on top of white semi truck.,1
+1460,2908,2909,The man poses for a photo in front of the train.,A man stands on a platform in front of a silver train.,1
+1461,2910,2911,A bicyclist in black on a black and red racing bike.,A cyclist in black and white lira speeding past spectators.,1
+1462,2912,2913,A kitchen sink and countertop with bowls on shelves.,A small kitchen with items stacked on the shelves and on the counter.,1
+1463,2914,2915,A television in a messy room with several bookcases.,A room with a television,1
+1464,2916,2917,A black and white cat sleeping on its side on a purple blanket.,A black and white cat laying on the ground in the sun.,0
+1465,2918,2919,A woman riding a bicycle on a large concrete area.,A women riding a mountain bike on a large concrete area.,1
+1466,2920,2921,Two cows standing in a large field.,The cow is grazing in a field.,1
+1467,2446,2922,A bald man touches the nose of a black horse on the other side of a fence.,A bald man with a beard pets the nose of a blackand white horse at the fe,0
+1468,2923,2924,man is standing next to a yellow sports car.,A man stands next to a yellow Corvette.,1
+1469,2925,2926,a black and white photo of cows in their stalls.,A black and white photo of cattle at a trough.,0
+1470,2927,2928,Double decker bus with the London Eye ferris wheel in background.,"a brown double decker tour bus on a street with a ferriswheel behind it.""",0
+1471,2929,2930,A yellow and black bird eats from a bird feeder.,A flock of birds flying over a body of water.,0
+1472,2931,2932,A man stands in front of a train.,A man stands on a platform in front of a silver train.,1
+1473,2933,2934,A small plane parked at an airfield with a cloudy sky overhead.,A small white plane parked in an airport on a cloudy day.,1
+1474,2935,2936,A boat is on the water near a small plane.,A boat is in the water and a small airplane is on the dock.,1
+1475,2937,2938,A man riding a white horse in an arena.,A domestic animal stands in a pen.,0
+1476,2939,2940,A Macintosh computer sitting on the floor.,a computer on the floor.,0
+1477,2941,2942,A black and white cat is sitting on a brown chair looking up.,A dog sitting on a yellow chair next to a green dumpster.,0
+1478,2943,2944,sheep standing in afield.,A large dog stands next to a sheep in a field.,0
+1479,2945,2946,Group of elderly people sitting around a table.,A group of elderly people pose around a dining table.,1
+1480,2947,2948,Three women with brown hair are smiling.,Three women in Indian dresses in a crowded room smiling.,1
+1481,2949,2950,A black and white photo of an empty train station.,A black and white photo of a cat sitting on a sofa.,0
+1482,2951,2952,dogs in a fenced kennel look ahead.,Two girls on a guy posing on the bow a boat.,0
+1483,2953,2954,A black and white cow looking through the fence.,A black and white cat laying on the ground in the sun.,0
+1484,2955,2956,Several people on motorcycles in a market square.,People ride mopeds in an urban setting.,0
+1485,2957,2958,A close-up of a sheep in the grass.,A close-up of a lamb with its ear tagged,0
+1486,2959,2960,cat laying on back of cat litter.,Tan domestic cat under black tarp.,0
+1487,2961,2962,Two green birds fly towards a wooden telephone pole.,Two green birds flying above the telephone wires.,1
+1488,2963,2964,person sitting on a motorcycle while a man stands by.,A man stands next to a helmeted man on a motorcycle in an emptyparking lo,1
+1489,2965,2966,Three cows grazing in a field.,Two cows graze in a field.,0
+1490,2967,2968,A blue bird perched on a gloved hand.,A bird is perched on a person's gloved hand.,1
+1491,2969,2970,baby holds a ketchup packet.,A baby in a highchair holds a ketchup packet.,1
+1492,2971,2972,A close-up view of a horse's head.,A close-up of a brown horse's head.,1
+1493,2973,2974,train is at a train station.,a train in a station.,1
+1494,2975,2976,A dark brown horse standing in a field.,Horse standing in a field.,1
+1495,2977,2978,A small cat laying on a wooden beam looking up at the camera.,"The small dog is wearing a sweater and looking up at thecamera.""",0
+1496,2979,2980,The black bird is sitting on the ground.,The bird is sitting on the branch.,1
+1497,2981,2982,small brown birds is eating from a bird feeder hanging from a tree.,A small red and grey bird perched in a tree.,0
+1498,2983,2984,A pair of dogs playing with a purple ball.,Two dogs play with purple football.,1
+1499,2985,2986,a bird lands in the water.,a boat floats in the water.,0
+1500,2987,2988,Three children stand on or near a fence.,The three children are standing on and by a fence.,1
+1501,2989,2990,A black dog emerges from the water with a white ball in its mouth.,"a black dog walking out of the water with a white ball inhis mouth.""",1
+1502,2991,2992,"A girl in a purple shirt and pink headband posing	A young girl wearing a hat and blue jeans is on a swing.","A girl in a purple shirt and pink headband posing	A young girl wearing a",1
+1503,2993,2994,"A brown dog digging a hole in front of a plant	A group of people walking on the side of a railroad track.","A brown dog digging a hole in front of a plant	A group of people walking",1
+1504,2995,2996,The brown and white dog swims in a swimming pool.,A brown and white dog swims in a backyard swimming pool.,1
+1505,2997,2998,A boy in a red sled is riding down the hill.,A multicolour dog in a red collar crouching on the grass.,0
+1506,2999,3000,A black and brown dog runs through the woods.,A dog running through the woods.,1
+1507,3001,3002,The two dogs are running on the grass.,Two dogs are playing in the grass.,1
+1508,3003,3004,A young girl holds up a peace sign.,A little girl holds onto a pole on a city street.,0
+1509,3005,3006,A man is hanging by a line off a cliff above water.,Man sitting by himself on a pier with a bottle of water.,0
+1510,3007,3008,A man crouching and holding a camera.,The crouching man is holding a large camera.,1
+1511,3009,3010,Man riding a bicycle down a narrow path.,A man riding a unicycle down a paved road,0
+1512,3011,3012,A man wearing an orange coat speaks to another as they walk in the snow.,"A man and woman dressedin old fashion clothing sitoutside at a table.""",0
+1513,3013,3014,A dog is jumping up in the air to catch a toy.,A black dog jumps in the air to catch a toy.,1
+1514,3015,3016,A brown dog laying on a blue cover.,A person is diving into clear blue water.,0
+1515,3017,3018,The two boys play in the field.,The two people have their heads covered with scarves.,0
+1516,3019,3020,The two dogs are running through the grass.,Three dogs run in the snow.,0
+1517,3021,3022,A boy with a broken arm is resting in a bed.,A boy with a broken arm is sleeping.,1
+1518,3023,3024,"boy doing tricks on a skateboard	A boy does a trick on a skateboard.","boy doing tricks on a skateboard	A boy does a trick on a skateboard.",1
+1519,3025,3026,Three dogs playing in the snow.,Three dogs are playing in the water.,1
+1520,3027,3028,A little girl with a ribbon in her hair is picking her nose.,"A little girl in a purple shirt and helmet is riding on ascooter.""",0
+1521,3029,3030,A young girl going down a tube slide.,A young girl swinging off a tire swing,0
+1522,3031,3032,Many people are in the bicycle racing,Many people are in the bicycle racing,1
+1523,3033,3034,A group of people are wearing bunny ears.,A group of people ride in a race,0
+1524,3035,3036,"A dog in a """"superman"""" shirt sleeps on a blanket.",A brown dog in a Superman shirt is laying on a blue blanket.,1
+1525,3037,3038,The white and brown dog runs across the grass.,A brown and white dog runs across the grass.,1
+1526,3039,3040,A brown dog is resting its paws on a laptop keyboard.,A dog sits with its paws on a laptop computer.,1
+1527,3041,3042,A young girl with glasses sits and holds two American flags.,"A girl in glasses is looking over two American flags near awooded area.""",1
+1528,3043,3044,A small white and brown dog is jumping over a horizontal pole.,a brown and white dog jumping over a red and yellow pole,0
+1529,3045,3046,Two dogs are running through a grassy area.,Two dogs running through a grassy field.,1
+1530,3047,3048,A man is swinging on a rope above the water.,A man in warm clothes swinging on monkey bars at night.,0
+1531,3049,3050,Two Asian men and Asian woman sit in black massage chairs.,Two Asian men and a woman are relaxing in massage chairs.,1
+1532,3051,3052,A girl playing is a pile of colorful balls.,A little girl plays in a pit of colorful balls.,1
+1533,3053,3054,An older man is standing outside in front of a truck.,A woman dressed in green is roller skating outside at an event.,0
+1534,3055,3056,Smiling man with reflective classes.,A gentleman smiling and showing his reflective sunglasses.,0
+1535,3057,3058,"five people standing on a sidewalk	Five people on a sidewalk.","five people standing on a sidewalk	Five people on a sidewalk.",1
+1536,3059,3060,The white dog runs across the snow.,A white bear walks along snow-covered ground and casts a shadow on the sn,0
+1537,3061,3062,A young boy in a brown jacket playing with snow.,Two dogs are playing in the snow.,0
+1538,3063,3064,A man picking up a big rock.,A woman picking up a large rock.,0
+1539,3065,3066,A white and brown dog is running over grass.,A brown and white dog is running across the grass.,0
+1540,3067,3068,Man is carrying a tool box down the sidewalk.,A woman is riding a blue bicycle in a park.,0
+1541,3069,3070,"A man wearing a t-shirt that says """"Gigolo"""" stands at the counter talking to someone.with his back to the camera.""","A man wearing a shirt that says""""Gigolo"""" is standing at a front desk are",1
+1542,3071,3072,A tent and a campsite in a sunlit forest.,A white dog on a beach is carrying a stick in its mouth.,0
+1543,3073,3074,Two large dogs running in some grass.,Two brindle dogs running in the grass.,1
+1544,3075,3076,A dog swimming with a stick in it's mouth.,A dog running with a stick in it's mouth.,0
+1545,3077,3078,A man playing fetch with two brown dogs.,A woman plays with a brown dog.,0
+1546,3079,3080,a dog is running across the sand with a stick in it's mouth.,A dog is running through a creek with a stick in its mouth.,1
+1547,3081,3082,A man is standing in water near a waterfall.,A man wades in the water and watches a water fall.,1
+1548,3083,3084,A tan dog jumps up to catch a tennis ball.,A red dog jumps an catches a tennis ball in its mouth.,1
+1549,3085,3086,The man is jumping into the water.,The man is up in the air.,0
+1550,3087,3088,A woman in a black shirt stands in front of bananas at a fruit stand.,"a woman wearing black stands in front of a pickuptruck.""",0
+1551,3089,3090,A child is jumping into a swimming pool.,A dog jumping into a swimming pool.,0
+1552,3091,3092,A little boy jumping from one chair to another.,A young boy jumping from one chair to another in his house,1
+1553,3093,3094,A girl swings her long,A girl swings her long,1
+1554,3095,3096,Two dogs playing by the shore.,Two dogs playing in the snow.,0
+1555,3097,3098,A little girl walks on a boardwalk with blue domes in the background.,"A man going over a jump on his bike with a river inthe background""",0
+1556,3099,3100,Two women sitting on a bench,Two women sitting on a bench,1
+1557,3101,3102,A guy and two girls are smiling at the camera.,Three dogs,0
+1558,3103,3104,A dog swimming with a stick in it's mouth.,Dog swimming in the water with a stick in its mouth.,1
+1559,3105,3106,A black poodle plays in the snow.,A black poodle frolics in the snow.,1
+1560,3107,3108,"two girls holding up a scary movie flyer	Two girls holding sacks are standing in a field.","two girls holding up a scary movie flyer	Two girls holding sacks are stan",1
+1561,3109,3110,Three boys are running on the beach playing a game.,Two young boys and one young man run on a beach with water behind them.,0
+1562,3111,3112,A girl is wearing a purple sash and matching skirt.,A group of girls stands wearing jean skirts and superman shirts.,0
+1563,3113,3114,a man wearing a grey jacket standing on the side of a street.,A boy wearing a blue life jacket is holding onto the side of agreen boat.,0
+1564,3115,3116,A brown and black dog is jumping to catch a red ball.,A brown and black dog jumps for a red ball.,1
+1565,3117,3118,The tan dog runs through the leaves.,The white dog runs through the ocean.,0
+1566,3119,3120,A white and black dog is jumping into a pool.,A woman in a black apron is standing in front of a mirror.,0
+1567,1749,3121,A black and white dog is carrying a stick in its mouth.,The black and white dog has a stick in his paws.,0
+1568,3122,3123,A deer jumps a fence.,A deer jumping over a fence.,1
+1569,3124,3125,A little girl holds a wooden stick.,A little girl swimming in a pool.,0
+1570,3126,3127,A black dog jumps through the water.,A dog walks through the snow.,0
+1571,3128,3129,A group of people in front of a red fire truck.,A group of people are standing around a red fire truck.,1
+1572,3130,3131,a boy jumps into the blue pool water.,The young boy is jumping into the pool on his belly.,0
+1573,3132,3133,A blonde dog is catching a ball in its mouth in the snow.,A little blonde girl is sitting on a green chair.,0
+1574,3134,3135,Three children and playing and laughing on the floor.,Three children playing on the floor.,1
+1575,3136,3137,A man sits with fishing poles near a body of water.,A man sits on a rock next to a folding deck chair and a fishing pole.,1
+1576,3138,3139,A woman and a dog standing in the grass.,A man carries a sign while standing in the rain.,0
+1577,3140,3141,A man in a blue shirt is running in a stadium field.,A man wearing a blue hat and shirt is riding a white horse.,0
+1578,3142,3143,A black dog running through water.,A black dog is running through some water.,1
+1579,3144,3145,Children jumping on a trampoline.,A man is sledding on an orange slide.,0
+1580,3146,3147,A large brown dog is crouching in a grassy field.,A brown dog is running in a field.,1
+1581,3148,3149,A dog runs through the grass.,A dog runs through the snow.,0
+1582,3150,3151,A skier speeds through the snow.,A brown dog carrying a Frisbee runs through the snow.,0
+1583,3152,3153,Two people are playing golf on a golf course.,Two people are on a golf course playing golf.,1
+1584,3154,3155,A boy and a girl playing on the beach.,A dog playing in the waves with a ball.,0
+1585,3156,3157,The child in the red coat laid in the red mat.,The toddler is ready to climb the red piece of equipment.,0
+1586,3158,3159,Two dogs play in the grass.,Two dogs are playing in the grass.,1
+1587,3160,3161,A child in a blue and white team uniform chasing a soccer ball.,A young boy in a blue soccer uniform chasing a ball.,1
+1588,3162,3163,A softball player swinging at a pitch.,A baseball player hitting the ball,1
+1589,3164,3165,A man is kite surfing away from the camera.,A man is sky surfing on the water.,1
+1590,3166,3167,A black dog is running in the grass.,A boy running through green grass.,1
+1591,3168,3169,A little boy and a little girl playing together outside.,A young boy and a young girl walking towards each other,1
+1592,3170,3171,Two people sit on the end of a dock.,Two people sitting on a dock.,1
+1593,3172,3173,Two dogs in a yard.,Two dogs in a stream.,1
+1594,3174,3175,A man chases a dog trying to pass the barrier to enter a play area.,"A man follows his black and white dog as it takes on anobstacle course.""",0
+1595,3176,3177,The large brown and white dog is running through the snow.,St. Bernard dog running in the snowy field.,0
+1596,3178,3179,A bloody man and woman pose for a picture.,A man in woman dressed warmly pose for a picture.,0
+1597,3180,3181,A yellow dog is playing in a grassy area near flowers.,A girl is playing on a swing.,0
+1598,3182,3183,a boy plays with a noodle by the pool.,A boy plays with a foam noodle toy by a pool.,1
+1599,3184,3185,two big brown dogs running through the snow.,A brown dog running through the grass.,0
+1600,3186,3187,A young boy jumps into a pool with outstretched arms.,A dog jumps into a backyard pool.,0
+1601,3188,3189,A girl holds up a yellow balloon animal.,A child holds a yellow balloon.,1
+1602,3190,3191,Two dogs share a toy in a field of vegetation.,Two snowboarders are in the air over the snow.,0
+1603,3192,3193,A blond haired lady in white poses for the camera.,A black and white dog runs with its mouth open.,0
+1604,3194,3195,A dog runs through a field chasing a ball.,A child runs through the grass.,0
+1605,3196,3197,Two girls are sitting in front of a statue.,Two blonde girls are sitting next to a statue,1
+1606,3198,3199,A girl in orange lights a candle.,A girl in an orange shirt lights candles.,1
+1607,3200,3201,A white dog runs through a field of yellow flowers.,A dog with a red collar runs in a forest in the middle of winter.,0
+1608,3202,3203,An infant sitting on a cot reaching over to touch the face of an older boy.,"A boy who seems ill is being touched in the faceby a toddler.""",0
+1609,3204,3205,A dog shaking off water.,A dog shaking water off.,1
+1610,3206,3207,Young boys running along the pavement.,A black dog running along the edge of the ocean.,0
+1611,3208,3209,A young child slides down an orange slide.,A little boy in denim overalls slides down an orange slide.,1
+1612,3210,3211,"a black and white dog running through some red and white poles	Black and white dog in living room standing on hind legs.","a black and white dog running through some red and white poles	Black and",1
+1613,3212,3213,"Three individuals are posing on skis behind a """"no skiing"""" sign.",Three people on skis are standing behind a no skiing sign.,1
+1614,3214,3215,A man in a white suit walks down the street holding a newspaper.,A man in a white suit walks outside carrying a newspaper.,1
+1615,3216,3217,A black dog with a blue collar is running in the snow.,A black dog wearing a blue collar is running through the snow.,1
+1616,3218,3219,A dog is running toward the camera.,A brown and white dog running on grass.,0
+1617,3220,3221,a boy swinging on a swing.,The girl is on a swing.,0
+1618,3222,3223,"A group of youngsters swim in lake water	Many children are playing and swimming in the water.","A group of youngsters swim in lake water	Many children are playing and sw",1
+1619,3224,3225,A blue and white soccer team playing against each other.,A topless woman with her face painted is covered in mud.,0
+1620,3226,3227,A brown dog about to catch a green Frisbee.,A brown dog waits for the Frisbee to come down before catching it.,1
+1621,3228,3229,A black and white dog is swimming in a large green lake.,A black dog runs fast into shallow water.,0
+1622,3230,3231,Two large black dogs are playing in a grassy field.,Two white dogs are running together.,0
+1623,3232,3233,The brown and black dog sprints across the snow.,A black dog is running quickly along the ground.,0
+1624,3234,3235,The man in the backpack looks to his left.,An adult male wearing a backpack walks and looks to the left.,1
+1625,3236,3237,An elderly man in a blue shirt is holding up a piece of canvas art.,A black man is walking next to a building in a big city.,0
+1626,3238,3239,Two skinny young boys playing with sand in the water.,Two dogs are shaking water off.,0
+1627,3240,3241,A small dog runs through an obstacle course.,A small dog jumping over an obstacle.,1
+1628,3242,3243,A brown dog running through the woods.,A brown dog runs through the grass.,0
+1629,3244,3245,A group of people are standing by a window watching something.,A group of people stand and wait to see something.,1
+1630,3246,3247,A dog is jumping over a barrier at a agility competition.,A dog jumping over an obstacle course fence.,0
+1631,3248,3249,Three people racing on ice skates.,Three ice skaters round a corner.,0
+1632,3250,3251,Two women contestants are walking their dogs in a dog show.,Two women walk there dogs at a dog show.,1
+1633,3252,3253,"Two men on the side of a barge	A man is lying the grass with long hair and beard.","Two men on the side of a barge	A man is lying the grass with long hair an",1
+1634,3254,3255,A brown dog in running on grass.,A brown dog runs through the grass.,1
+1635,3256,3257,A person is riding their bike on a trail next to the woods.,"A small child in a yellow shirt is holding their arms out to thesides.""",0
+1636,3258,3259,A woman in a black dress smiles in front of a silver truck.,A girl wearing a black top is smiling with a silver truck in thebackgroun,0
+1637,3260,3261,A dog is on the beach near a ball.,A guy is going up for a lay-up on a basketball court.,0
+1638,3262,131,A dog bounds across the brown grass.,Two dogs bound across the grass.,0
+1639,3263,3264,"a woman playing with two young boys at a park	A woman and three kids play at a park.","a woman playing with two young boys at a park	A woman and three kids play",1
+1640,3265,3266,A dog emerges form the water with a stick in its mouth.,A dog runs toward the camera with a stick in its mouth.,1
+1641,3267,3268,Three dogs playing in the snow.,The boy is playing in the sand.,0
+1642,3269,3270,A dog carries a leash in its mouth.,A fluffy dog carries a black leash in its mouth.,1
+1643,3271,3272,A man in jeans is playing with a ball while a woman in jeans stands nearby looking away.,"A man is tying a red arm bandaround another mans arm in the street.""",0
+1644,3273,3274,A skier is falling into the snow.,A skier is falling face first into the snow.,1
+1645,3275,3276,A dog with a red toy in it's mouth.,A brown dog is carrying a stick in its mouth.,0
+1646,3277,3278,Two hockey players fighting on the ice.,Two hockey players in a struggle on the ice.,1
+1647,3279,3280,Two terriers play on the wood floor of their home.,Two puppies play with a red chew toy in a field.,0
+1648,3281,3282,Two dogs running through a field.,Two dogs play in a field.,1
+1649,3283,3284,"A man in a gray suit locking up a bicycle	A man and a woman standing on a city street.",A man in a gray suit locking up a bicycle.,1
+1650,3285,3286,A man in a black leather jacket is sleeping in a subway car.,"A man in a black leather jacket falls asleep on publictransportation.""",0
+1651,3287,3288,A dog leaping over a hurdle.,A dog leaps over the hurdle.,1
+1652,3289,3290,"Two men are setting up some electronic equpitment	Two dogs are wrestling on the ground in the snow.",Two men are setting up some electronic equpitmet.,1
+1653,3291,3292,A black dog is walking on the grass with a stick in it's mouth.,A boy holds a net with a snake in it close to the ground.,0
+1654,3293,3294,A girl runs with dogs in a dry field.,A grey dog and a tan dog playing on a grassy field.,0
+1655,3295,3296,Two dogs playing in the snow.,Two black dogs in the snow.,1
+1656,3297,3298,A dog leaps off a dock and into the water.,The black dog leaps off the dock and into the water.,1
+1657,3299,3300,"a group of old men walking down the street	A couple walking down the street.","a group of old men walking down the street	A couple walking down the stret.",1
+1658,3301,3302,Three dogs standing in snow next to a blue fence.,Three dogs play in the shallows next to a rocky shore.,0
+1659,3303,3304,A black and white dog is running through the field.,A black and white dog is running in the grass.,1
+1660,3305,3306,A boy in black waves his arms while other people are behind him on a field.,"a man in a black shirt is roller blading past abench in the city.""",0
+1661,3307,3308,An elderly woman rides a bicycle along a city street.,An elderly woman walking uphill crossing the street.,0
+1662,3309,3310,A young boy is punching a yellow ball.,A small dog jumps over a yellow beam.,0
+1663,3311,3312,A group of young ballerinas are in a dance studio.,A group of young ladies in bikinis.,0
+1664,3313,3314,A young boy in a white dress shirt is playing on a grassy plain.,A woman is getting her hair done at a salon.,0
+1665,3315,3316,A man and a dog are playing tug of war.,A man dances on a colorful wall.,0
+1666,3317,3318,A wet child shivers under a towel at a pool.,A wet child is shivering in a towel in front of a pool.,1
+1667,3319,3320,A white dog runs on a beach.,The white dog is running along the beach.,1
+1668,3321,3322,Six dogs running on the sandy beach.,Six dogs walking beside the beach.,1
+1669,3323,3324,A man holds on to a handle in the water.,A man is holding onto handles in the air.,1
+1670,3325,3326,A white dog walking in the snow.,A black and tan dog walking through the snow.,0
+1671,3327,3328,The white and brown dog runs across the grass.,Three dogs are running on the grass.,0
+1672,3329,3330,A boy goes down an inflatable slide.,A boy in red slides down an inflatable ride.,1
+1673,3331,3332,Two dogs playing with a ball in a puddle.,Two dogs stand in a puddle,1
+1674,3333,3334,Three dogs are playing in the water.,Three dogs run in the snow.,0
+1675,3335,3336,Two dogs playing in the snow.,Two kids playing with a dog.,0
+1676,3337,3338,A girl does a back bend on the beach.,A girl doing a back bend at the beach.,1
+1677,3339,3340,The two dogs are playing fetch in the snow.,Two dogs are playing together in the grass.,0
+1678,3341,3342,Two surfers on riding a small wave.,Two surfers perform tricks in the waves.,0
+1679,3343,3344,Two people walking on the beach at sunset.,Two people walking along the shore at sunset.,1
+1680,3345,3346,"two puppies playing around in the grass	Two dogs are wrestling in the grass.","two puppies playing around in the grass	Two dogs are wrestling in the gss.",1
+1681,3347,3348,A young girl is sitting on Santa's lap.,A little girl is sitting on Santa's lap,1
+1682,3349,3350,A black and white dog runs with its mouth open.,A black and white dog swims in blue water.,0
+1683,3351,3352,A young boy jumping in the air at the beach.,A boy jumping in the air on the beach.,1
+1684,3353,3354,Five men in tuxedos are walking down steps.,Five men in tuxedos walk down a set of steps,1
+1685,3355,3356,Man in red shorts and white shirt kicking a soccer ball.,A black dog stands in the surf holding a red rubber ball.,0
+1686,3357,3358,A man and dog on a rocky seashore.,Man and dog standing on rocks next to water,0
+1687,3359,3360,Brown dog splashing into the water.,Four dogs splashing in the water,0
+1688,3361,3362,The smiling woman at the beach is buried in seaweed.,A girl in a cowboy hat with a sheep on a leash.,0
+1689,3363,3364,A dog with big ears is holding a small stick in it's mouth.,A puppy with big ears chewing on a stick.,0
+1690,3365,3366,The large brown dog is jumping through the tall grass.,The girl wearing a blue shirt is running through a science center.,0
+1691,3367,3368,Two dogs fighting in the snow.,Two dogs playing in the snow.,1
+1692,3369,3370,A brown dog is in the middle of a line of dogs chasing a dirty tennis ball over dirt.,"There are two white dogs and one browndog chasing a ball.""",0
+1693,3371,3372,A grey hound is active in a grassy field.,A bunch of bikes racing on a track.,0
+1694,3373,3374,Two people are racing a sidecar motorcycle in the mud.,The dog carrying a long stick in its mouth.,0
+1695,3375,3376,The man is sitting at the top of a rocky mountain.,A person sticks their head out of a tent at the top of a mountain.,1
+1696,3377,3378,A man standing on a boat is pulling another boat close by with a bamboo stick.,"a man in a black hat standing in front of abrick wall and a sign""",0
+1697,3379,3380,a man plays his white guitar.,a man playing a white guitar and singing as well,1
+1698,3381,3382,A person is skijoring with a dog in the mountains.,A brown dog is playing with a ball in the water.,0
+1699,3383,3384,Two shirtless young people playing in the water.,Lots of people play in the water at the beach.,0
+1700,3385,3386,Close-up of a hummingbird.,A closeup of a hummingbird flying.,1
+1701,3387,3388,Woman in a black dress walking on the street.,A woman watches a dog jump down the stairs.,0
+1702,3389,3390,A man and a woman looking at the camera.,A man and a woman laughing.,0
+1703,3391,3392,"a brown dog running through the dirty muddy grass	The large brown dog is running outside in the dirt.",a brown dog running through the dirty muddy grass.,0
+1704,3393,3394,Three dogs pulling a man on a bicycle through the snow.,The dogs are pulling a man on a type of bike,0
+1705,3395,3396,A baby in a red hat sitting in a stroller is holding a doll.,A man in a gray shirt sitting in a field of flowers.,0
+1706,3397,3398,Three children playing with hay outdoors,Three children playing with hay outdoors,1
+1707,3399,3400,A climber is standing on the rock face next to the pink rope.,"The children are running in the snow with fences in thebackground.""",0
+1708,3401,3402,A black dog wearing an orange collar is entangled with fishing wire.,The black dog wearing a red collar shakes water off.,0
+1709,3403,3404,Two dogs are playing around in the dirt.,A dancer posing for the camera in a red and white dress.,0
+1710,3405,3406,A golden dog is running on the grass.,The large beige dog is running through the grass.,0
+1711,3407,3408,A dog runs through the grass.,a dog runs across the grass.,1
+1712,3409,3410,a man in red shorts is walking along rocks by a river carrying a stick.,"A man is walking on rocks with water flowing aroundthem.""",0
+1713,3411,3412,Man rowing a boat.,a man doing a trick on skateboard,0
+1714,3413,3414,Three dogs running on a racetrack.,Three dogs round a bend at a racetrack.,1
+1715,3415,3416,A black and brown dog walks through the snow near a building.,An older man stands outside a old boarded up building.,0
+1716,3417,3418,A dog is jumping into a swimming pool after a duck.,A dog jumping into a swimming pool.,1
+1717,3419,3420,"A dog running through a forest in the winter time	A dog running through a lot of twigs.","A dog running through a forest in the winter time	A dog running through lot of wings.",1
+1718,3421,3422,The girl is playing along with the images on the big screen.,Three girls holding umbrellas with their backs to the camera.,0
+1719,3423,3424,Many people run in a race on a street.,A puppy running along a street.,0
+1720,3425,3426,A man in swimming trunks is standing against some rocks.,A man in a gray shirt climbs a large rock wall.,9
+1721,3427,3428,Two white dogs walking in the snow.,A tan dog with a black collar barking in the snow.,0
+1722,3429,3430,A woman wearing a pink shirt jumps in the air with her arms and legs spread out to the side.,A man wearing suspenders andsunglasses leaps up in the air with his arms and legs spread out to the side.,1
+1723,3431,3432,A dog runs through the grass.,Two dogs run through the brush.,1
+1724,3433,3434,"A dog running across the sand	A dog running through the water.","A dog running across the sand	A dog running through the water.",1
+1725,3435,3436,A woman is attempting to ride a small wave.,A man and woman sitting back to back outside in the sun.,0
+1726,3437,3438,The black and white dog is swimming in the river.,A black man and his dog on the beach.,0
+1727,3439,3440,Man standing on top of jagged rocks near the ocean.,A man is standing on top of rocks overlooking the ocean.,1
+1728,3441,3442,A girl in a black and blue wet suit is surfing.,A woman wearing a black and blue striped suit is surfing on a wave.,1
+1729,3443,3444,The woman is leading a dog through an obstacle course.,Woman leading her small dog through an obstacle course.,1
+1730,3445,3446,Two dogs on the beach.,A dog walks on the beach.,0
+1731,3447,3448,A young boy is standing on a gray tiled area.,A young boy is practicing his karate in a gym.,0
+1732,3449,3450,The dog is running with food in his mouth.,The dog is running with a yellow ball in his mouth.,0
+1733,3451,3452,Two dogs running down a beach.,two dogs running on the beach,1
+1734,3453,3454,"A black and white dog swimming in the pool	A black and white dog running with something in his mouth.",A black and white dog swimming in the pool.,1
+1735,3455,3456,A dog has it's head inside a red and green gift bag.,A pet playfully investigates the contents of a gift bag.,0
+1736,3457,3458,A yellow shirted man wearing a golden sun mask.,A man in a yellow shirt wears a gold,1
+1737,3459,3460,A man is scalling a sheer rock face with a rope support.,A young man is doing a ski jump with a purple board.,0
+1738,3461,3462,A child with his hands on his head.,A little boy stands with his hands on top of his head,1
+1739,3463,3464,A man wearing a orange vest is canoeing in the blue water.,"A man in an orange jacket raising his hands to the sky in thesand.""",0
+1740,3465,3466,An old man in a black trench coat standing in a marketplace.,The baby is wearing a red shirt and walking in a plaza.,0
+1741,3467,3468,A man climbing a cliff face.,A man climbs a sheer cliff face.,1
+1742,3469,3470,Two girls are in pajama pants and appear to be dancing.,Two girls with baseball caps are eating a snack outside.,0
+1743,3471,3472,A white and brown dog playing with a black toy.,A white and brown dog is playing tug-o-war.,1
+1744,3473,3474,A boy plays baseball.,A man is playing baseball.,1
+1745,3475,3476,A boy wearing a red shirt runs across the grass with a furry dog.,A sports fan is wearing face paint in the stands.,0
+1746,3477,3478,A black dog retrieves in the snow.,A skateboarder jumping in the street.,0
+1747,3479,3480,A smiling man and a baby girl posing for photo.,A smiling man holds a small child wearing pink and red.,0
+1748,3481,3482,A dog jumping for a Frisbee in the snow.,A dog is jumping in the snow.,0
+1749,3483,3484,A brown and white dog with a pink collar is barking at a brown dog with a blue collar in the snow.,The dog with the redcollar is bearing it's teeth at the dog with the blue collar.,1
+1750,3485,3486,Two brown dogs are biting each other.,Two brown dogs biting each other on sand.,1
+1751,2574,3487,A skateboarder attempts a trick on the side of a low wall.,A boy does skateboard tricks on a railing.,0
+1752,3488,3489,A young girl doing a back flip in the water.,a young girl wearing purple running through water,0
+1753,3490,3491,A snowboarder rides a snowboard down a railing beside a flight of steps.,"A boy is grinding a skateboard down a concretewall.""",0
+1754,3492,3493,A woman with two men in hats socializing outside.,A young woman with a knit cap stands against the wall of a Domino's Pizza.,0
+1755,3494,3495,A small boy in a bathrobe is sitting in a metal chair.,A boy in a robe sits in a chair.,0
+1756,3496,3497,A black dog is running through the snow.,A black pit bull dog is running through the dirt.,0
+1757,3498,3499,a group of teenagers are dancing on a wooden floor.,A group of people in dark colored clothing are line dancing on a woodenfloor.,1
+1758,3500,3501,A young boy is riding a bike.,A young girl laying on a blue inflatable toy,0
+1759,3502,3503,A black dog running in the snow.,A black dog running on a beach.,0
+1760,3504,3505,Three dogs in the snow by a fence.,Two dogs drink water in a lake.,0
+1761,3506,3507,A girl runs along a river bank with two black dogs.,A little boy is petting a tiger that is laying down.,0
+1762,3508,3509,A teenage girl running on a beach shouting,A teenage girl running on a beach shouting,1
+1763,3510,3511,A brown and white dog is walking next to a man on a skateboard.,"A blond child is laying on a branch of a tree in a greenfield.""",0
+1764,3512,3513,Man riding a surfboard on a wave.,A man in black on a surfboard riding a wave.,0
+1765,3514,3515,The man in the red shirt is climbing the side of a mountain.,A man is climbing the side of a mountain.,1
+1766,3516,3517,A man riding a motorcycle while wearing a black uniform.,A white motorcycle is being ridden around a race track.,1
+1767,3518,3519,a black dog swimming through a river.,a black dog digging through the snow.,0
+1768,3520,3521,A man and a woman are smiling.,A man and a woman laughing.,1
+1769,3522,3523,A man is standing on top of a rock or mountain watching the sun set.,A man standing in the mountains watching a sunset.,1
+1770,3524,3525,Two little girls are playing on a trampoline.,Two little boys are playing on a playground.,0
+1771,3526,3527,Two girls are jumping high in the air.,Two dogs nussle one another in the grass near a lake.,0
+1772,3528,3529,The woman holding a black purse is smoking a cigarette.,A woman with a black bag is smoking a cigarette,1
+1773,3530,3531,A dog is running along the grass.,A brown dog is running in the grass.,1
+1774,3532,3533,A man with long hair is looking through a camera.,A woman stands against a wall near a video camera.,0
+1775,3534,3535,Brown dog running on grass.,The dog is running on grass.,1
+1776,3536,3537,Two people wearing hats sit and look at the camera.,A man wearing a blue shirt makes a grouchy face.,0
+1777,3538,3539,Two girls playing with people and flowers behind them.,Two young girls wearing skirts are playing in a garden.,1
+1778,3540,3541,A girl in a pink shirt is sprawling her limbs out in midair.,A man dressed in a Santa suit is climbing up a large concret ebuilding.,0
+1779,3542,3543,A little girl in a red shirt pulls a kite.,A girl in a red shirt takes a picture on a phone.,0
+1780,877,3544,Child sliding in the snow.,Man sleeping on the street.,0
+1781,3545,3546,Three dogs are playing in the water.,Three dogs swim in the water.,1
+1782,3547,3548,A white dog running on sand.,A white dog runs on the sand.,1
+1783,3549,3550,A little girl with her hands in the air is sitting on a man's back while he is laying on a blanket.a game.,A kid runs in the opposited irection of others who were playing a game.,1
+1784,3551,3552,a red and white race car racing on a dirt racetrack.,A person is riding a dirt bike in a race on a dirt track.,1
+1785,3553,3554,A black and white dog is running through a cow field.,A large black and white dog runs in the ocean water,0
+1786,3555,3556,A man in a straw hat shades his phone while others walk on a busy sidewalk.,A man lies on a street with his headand shoulder sunder a parked car that is jacked up.,0
+1787,3557,3558,A man with a messenger bag in front of a gray tile wall.,Man in red jacket standing in front of lighthouse.,0
+1788,3559,3560,A dog swims in the water.,Three dogs swim in the water.,0
+1789,3561,3562,A little white curly haired dog runs across the pavement with a stick in its mouth.,A white curly haired dog runs with a stick in it's mouth.,1
+1790,3563,3564,The blonde woman is wearing a black,The blonde woman is wearing a black,1
+1791,3565,3566,A person holding a net is standing in the water.,A black woman and two black children are sitting in a thatched tent.,0
+1792,3567,3568,A woman in an red tracksuit squeezing lemons in a press.,A young woman in a pink hoodie takes a picture.,0
+1793,3569,3570,"a man walks two dogs on leashes down the street	A man walks two dogs in the city.","a man walks two dogs on leashes down the street	A man walks two dogs inhe city.",1
+1794,3571,3572,A dog is running in the snow.,Two dogs running in the dirt,0
+1795,3573,3574,A small boy playing in the snow.,The brown and white dog is playing in the snow.,0
+1796,3575,3576,A woman in a blue shirt and tan shorts sits at a table.,A smiling young woman in a tourquoise shirt and bandanna poses at table outdoors.,0
+1797,3577,3578,"a white dog running in the snow	The dogs are running in the snow.","a white dog running in the snow	The dogs are running in the snow.",1
+1798,3579,3580,The black dog is running through the snow.,A race car driver is driving his car through the mud.,0
+1799,3581,3582,A dog wearing a green sweater and a backpack walking on snow.,A small dog wearing a green sweater and a backpack walks through snow.,1
+1800,3583,3584,A group of people sitting around a desk.,A group of girls on a beach.,0
+1801,3585,3586,Three dogs are running in a field.,Two dogs are running in a grassy field,0
+1802,3587,3588,A man and woman with their hands on their chins are standing next to a Christmas tree.workshop.,The man with a white beard and blue cap is standing in the doorway of a workshop.,0
+1803,3589,3590,The black and white dog has a stick in his paws.,A black dog and a white dog are standing on snow.,0
+1804,3591,3592,"A white dog running through the snow	The black and white dog runs through the grass.","A white dog running through the snow	The black and white dog runs througthe grass.",1
+1805,3593,3594,A man on skis on a snow-covered hill with mountains in the background..,A man on skis on a snow-covered hill with mountains in the background.,1
+1806,3595,3596,A man on a bike nest to a river.,A man on a bike does a very high jump.,0
+1807,3597,3598,A skier going down the snowy hill.,A brown dog is laying in the snow.,1
+1808,3599,3600,Two dogs are running on the grass.,Two dogs running in the dirt,0
+1809,3601,3602,A man is spraying a fluid from a long hose at the beach.,A guy is sitting on his bike with one wheel in the air.,0
+1810,3603,3604,A person in a red vest is touching the blue ice skates on another person.,A lady fastens someone's ice skates in the snow.,0
+1811,3605,3606,A girl bounces upside down on her head on a trampoline.,A girl is bouncing on her head on a trampoline.,1
+1812,3607,3608,A woman standing in front of trees and smiling.,A man is walking by trees in front of the city skyline.,0
+1813,3609,3610,A boy doing a back flip into a swimming pool.,A boy wearing red and blue swim trunks jumping head first into a swimming pool.,0
+1814,3611,3612,three little boys cover themselves with bubbles.,Three children standing by a pool are covered in foam bubbles.,0
+1815,3613,3614,The boy is looking up at the girl as another girl ignores them.,the boy is diving into the pool as the couple watch.,0
+1816,3615,3616,A black dog with a blue collar is running in the snow.,A black dog with a red collar plays in the snow.,1
+1817,3617,3618,A bird sits in a tree.,A bird sits in a leafless tree.,1
+1818,3619,3620,A brown dog chews on an orange ball.,A dog has an orange ball in its mouth.,1
+1819,3621,3622,A brown dog jumping into the air to catch a ball.,three young woman jumping into the air to catch a ball.,0
+1820,3623,3624,A child is walking from one picnic table to another.,The boy hops from one picnic table to the other in the park.,1
+1821,3625,3626,A dog in the snow.,Two dogs in snow.,0
+1822,3627,3628,Dalmation running along the beach.,A Dalmation runs along a beach.,1
+1823,3629,3630,A dog running through snow.,A dog runs in the snow.,1
+1824,3631,3632,Four black dogs run across the grass.,A dog runs across the grassy field.,0
+1825,3633,3634,A man in red and black is hitting a soccer ball with his head.,A man in a red striped soccer shirt heads a ball.,0
+1826,3635,3636,A brown dog is walking on the grass.,A dog chases another by a tree.,0
+1827,3637,3638,A woman placing a baby on a skateboard on the beach.,a woman holds a small baby on a skateboard at the beach,1
+1828,3639,3640,A black dog is biting a light brown dogs ear in a playful manner.,A black dog playfully bits another dog in a living room setting.,0
+1829,3641,3642,The beagle is walking on the beach at the waterline.,A beagle walks along the calm shore.,1
+1830,3643,3644,The black and white dog runs through the grass.,A black and white dog is running through grass.,1
+1831,3645,3646,Two dogs run through the snow,Two dogs run through the snow,1
+1832,3647,3648,A black dog is walking on the grass with a stick in it's mouth.,"The black dog is running on the grass with a toy in it'smouth.""",1
+1833,3649,3650,A man walks toward a policeman standing in a crosswalk on a city street.,A policeman stands in a crosswalk in a city.,1
+1834,3651,3652,A black dog and a white dog playing in the street.,A black dog and a white dog play in the street together.,1
+1835,3653,3654,A large black and white dog is swimming in the water.,A black and white dog with a stick is in muddy water.,1
+1836,3655,3656,A little boy clowns with a colander on his head.,A boy with a metal colander on his head.,1
+1837,3657,3658,Two constructions workers sit on a beam taking a break.,The man is putting on his shirt near an elevator.,0
+1838,3659,3660,A man and a woman laughing.,A man and a woman kiss.,0
+1839,3661,3662,A black,A black,1
+1840,3663,3664,Children are playing in a swimming pool while two adult men watch them.,Children play in a pool while adults look on.,1
+1841,3665,3666,Two kids splashing in the water.,Two dogs play together on the bed.,0
+1842,3667,3668,The brown and white dog is walking in shallow waters.,A white and brown dog appears to be walking on the water.,0
+1843,3669,3670,A woman reads while on public transportation.,A man who has fallen asleep on public transportation.,0
+1844,3671,3672,A bulldog is running through a grassy park while people stand in the background.,A dog is running in a large body of water causing it to splash.,0
+1845,3673,3674,"A young boy riding a bike on a brick road	A person does tricks on a bike on a ramp surrounded by trees.","A young boy riding a bike on a brick road	A person does tricks on a bik on a ramp surrounded by trees.",1
+1846,3675,3676,The young man is skateboarding at a skate park.,a boy in a blue T shirt is airborne on a skateboard in a skate park.,1
+1847,3677,3678,A girl jumping rope on a sidewalk near a parking garage.,A girl jumping rope on a sidewalk with a parking garage to the left.,1
+1848,3679,3680,A person is out in the water at the beach while the sun sets.,A person above their surfboard on the water.,0
+1849,3681,3682,A dog jumps in midair to catch a Frisbee.,The brown dog jumps for a pink Frisbee.,1
+1850,3683,3684,The dog returns the play toy to its master.,Three dogs race in the snow together.,0
+1851,3685,3686,Two females jump off of swings.,Two girls jump out of swings.,1
+1852,3687,3688,A woman with a young girl pose with bear statues in front of a store.,A man in a jersey stands in front of a large crowd.,0
+1853,3689,3690,A shirtless man playing football on a lawn.,A shirtless man catches a football,1
+1854,3691,3692,A girl wearing green twists something in her hands.,A young boy wearing only green shorts poses awkwardly with a brick background.,0
+1855,3693,3694,A man in a red jacket holds his bike for the picture.,A woman in a red jacket is video taping a natural landscape.,0
+1856,3695,3696,A boy jumps into a not-so-crowded public pool.,A man jumps while on a snowboard.,0
+1857,3697,3698,The clowns are striking a pose for the camera.,A child in orange is on a boogie board in the waves.,0
+1858,3699,3700,Four kids holding hands jump into a swimming pool.,Four dogs playing in the snow.,0
+1859,3701,3702,A boy pushes a wagon with two pumpkins.,A child squats behind a wagon with two pumpkins in it.,0
+1860,3703,3704,Two soccer players battle for the ball during an intense match.,Two little orange and white dogs are in the snow.,0
+1861,3705,3706,The black dog is walking through the tall grass.,The black dog is running through the grass.,1
+1862,3707,3708,Two black dogs playing in the snow.,A black dog digs in the snow.,0
+1863,3709,3710,A dog jumps over a chain.,A dog leaping over a chain.,1
+1864,3711,3712,A girl with a black purse sitting on a wooden bench.,A young woman with a black purse sits on a wooden bench.,1
+1865,3713,3714,"A black and a yellow dog	A black dog and a brown-and-white dog play in a field.","A black and a yellow dog	A black dog and a brown-and-white dog play in field.",1
+1866,3715,3716,Three children in a ball pit.,Several children playing in a ball pit.,1
+1867,3717,3718,A large white and grey dog runs through a yellow tunnel in an obstacle course.,A white and black dog is running out of a yellow and orange tube.,0
+1868,3719,3720,A swimmer is doing the backstroke in the swimming pool.,a person doing the back stroke in a swimming pool,1
+1869,3721,3722,A man stands astride a bike on a rocky trail by a lake.,A woman is wearing a white headband,0
+1870,3723,3724,A brown dog is running through green grass.,A brown dog is running though a river.,0
+1871,3725,3726,A small white dog and large brown dog play on the grass.,A small light tan dog is running past a large brown dog standing in the grass.,0
+1872,3727,3728,A woman holds a dog while another dog stands nearby in a field.,A lady holding one dog while another dog is playing in the yard.,1
+1873,3729,3730,A black dog walking through water.,Two black dogs walking through the snow.,0
+1874,3731,3732,A black dog is running in snow.,A black dog is swimming with a ball in it's mouth.,0
+1875,3733,3734,A woman dressed in green is playing with her tan dog.,A tan dog licks a girls hand while laying down.,0
+1876,3735,3736,Two homeless men stand outside with a cardboard sign.,Two homeless young men holding a cardboard sign.,1
+1877,3737,3738,A brown dog wades in the water.,A dog splashes in the murky water.,0
+1878,3739,3740,One man in an orange shirt wearing a white helmet is riding a bike.,The man wearing a blue helmet is riding a Polaris.,0
+1879,3741,3742,A little boy is standing in front of a wedding party laughing.,A person standing on a stage in front of a seated crowd,0
+1880,3743,3744,A person on a snowmobile.,A person on a snowmobile in mid jump.,1
+1881,3745,3746,The man is standing on the shore hitting a ball with a paddle.,"Two teenage girls are standing on beside the beach listeningto ipods.""",0
+1882,3747,3748,This over the top photo shows two men taking a break.,A person with swim cap and goggles taking a breath.,1
+1883,3749,3750,"Two brown dogs running together on sand	Two brown dogs are running on the sand.","Two brown dogs running together on sand	Two brown dogs are running on thsand.",1
+1884,3751,3752,A black dog is chasing after a red Frisbee.,A black poodle is running in the snow.,0
+1885,3753,3754,Two girls with ponytails ride an amusement park ride.,A young girl is on a ride at an amusement park.,0
+1886,3755,3756,A dog digging in the sand.,A brown dog digs in the sand.,1
+1887,3757,3758,Two men sit on the sidewalk in front of stores.,A woman in a bathing suit walks a dog on the beach.,0
+1888,3759,3760,A black and white spotted dog jumps over a stream.,A black and white spotted dog is jumping over the small stream of water.,1
+1889,3761,3762,A person on a bmx bike.,A man on a bike in mid-air,0
+1890,3763,3764,Two dogs running through tall grass.,Two dogs are running through a grassy area.,1
+1891,3765,3766,Little white dog wearing a leash jumping after a red ball.,A black and white dog returns a stick in the snow.,0
+1892,3767,3768,A group of people standing outside of a building.,A large group of people have formed a line outside.,0
+1893,3769,3770,A group of four children dancing in a backyard.,A group of children do stretches on colored mats.,0
+1894,3771,3772,a group of teenagers are jumping in the air on the beach.,A group of young people jump up in the air while on the beach.,1
+1895,2437,3773,A boy waves around a sparkler.,A young boy is twisting a sparkler around in the air.,0
+1896,3774,3775,Several people are sitting around a fire at night.,A group of people are standing and sitting around on the ground at night.,0
+1897,3776,3777,Two different breeds of brown and white dogs play on the beach.,Two dogs playing in the sand at the beach.,1
+1898,3778,3779,"One man and two women dressed in vampire costumes	A man and two women dressed in costumes.","One man and two women dressed in vampire costumes	A man and two women drssed in costumes.",1
+1899,3780,3781,Two boys,Two boys,1
+1900,3782,3783,Two dogs playing in snow.,Two dogs play in the snow.,1
+1901,3784,3785,A woman holds a baby while a man looks at it as another man holding a child watches.camera.,A woman stands with her arms out in a store while another woman holds a camera.,1
+1902,3786,3787,A white fluffy dog is running in pure white snow.,A fluffy,1
+1903,3788,3789,A woman holding a newspaper.,A man rollerblading on a metal bar.,0
+1904,3790,3791,A group of men playing brass instruments.,A group of guys play instruments outside.,1
+1905,3792,3793,Two girls on the shore watch people in a boat fish.,Two males,0
+1906,3794,3795,a snowboarder jumps into the air.,A snowboarder flies through the air.,1
+1907,3796,3797,A white dog with red ears is running in the snow.,a wet black dog with a red collar is in the river,0
+1908,3798,3799,A little girl and a little boy hold hands on a shiny slide.,A little girl in a paisley dress runs across a sandy playground.,0
+1909,3800,3801,Kids play soccer on a field.,Three boys playing soccer in a field,1
+1910,3802,3803,A man jumps off of one rooftop onto another.,A young man jumps from one balcony to another.,1
+1911,3804,3805,One child pulls another,One child pulls another,1
+1912,2993,3806,An owl has its wings up and widespread during the day.,The bird has its wings spread as it flies.,1
+1913,3807,3808,A man in a blue cap is sitting on a stool under a tree.,A dog standing on a beach with a ball nearby.,0
+1914,3809,3810,A woman sings into a microphone by a guy playing a guitar.,"A woman sings into a microphone with a guitar player in thebackground.""",1
+1915,3811,3812,Three sheep graze on the grassy field with a dog walking behind them.,a small group of goats in the grass with a black andwhite dog in the background.,0
+1916,3813,3814,a cyclist is making his bike jump between two rocks.,A man jumps his bicycle in the air between two rocks.,0
+1917,3815,3816,A young girl with a pink hat on with a yellow building in the background.,"A young girl in a pink dress with something in herhand.""",0
+1918,3817,3818,A girl in a pink dress rides her bike along a white picket fence.,"A girl in a red dress rides her bike in front of a whitefence.""",1
+1919,3819,3820,A brown furry animal stands behind some plants.,A dog pants while standing in the woods.,0
+1920,3821,3822,A child in a red shirt is using a black wake board to splash over a beach wave.,"A man in a rowboat is rowing across bluewater.""",0
+1921,3823,3824,The tan and white dog is running in the field.,The brown and white dogs run through the field.,0
+1922,3825,3826,Two teenage girls,Two teenage girls,1
+1923,3827,3828,"Two birds interacting in the grass	Two dogs play with each other outdoors.","Two birds interacting in the grass	Two dogs play with each other outdoor.",1
+1924,3829,3830,Two hikers stand at the top of a snowy mountain.,Two mountain climbers stand on the top of a mountain looking around.,0
+1925,3831,3832,Two children in a field of red flowers.,Two kids are playing in a field of red flowers.,1
+1926,3833,3834,A young men jumps off rocks into a lake.,A young man in red swimming trunks jumped off a large rock into the water.,0
+1927,3835,3836,A small black dog is in the grass.,A black dog is running in the grass.,0
+1928,3837,3838,A lady dressed in a kimono is looking at the camera.,Two girls dressed in black are sitting in a room making suggestive poses at the camera.,0
+1929,3839,3840,A group of people are firing up a hot air balloon.,A large group of people riding brown and white horses.,0
+1930,3841,3842,Children play fight with swords.,A child and parent pet a horse.,0
+1931,3843,3844,A man is wind sailing in the ocean.,A dog is running through the ocean.,0
+1932,3845,3846,"Three dogs racing on a dirt track	Cars racing on a dirt track","Three dogs racing on a dirt track	Cars racing on a dirt track",1
+1933,3847,3848,Two people holding hands and walking in a field.,Two men walking past a mural of a car.,0
+1934,3849,3850,"A brown dog chases a Frisbee	A brown dog squating on grass.","A brown dog chases a Frisbee	A brown dog squating on grass.",1
+1935,3851,3852,Woman in red overalls standing on the sidewalk.,A woman in red overalls stands on sidewalk.,1
+1936,3853,3854,A dog is running through a backyard full of leaves.,Three dogs run through a field.,0
+1937,3855,3856,"two puppies playing around in the grass	Two puppies play in the grass","two puppies playing around in the grass	Two puppies play in the grass",1
+1938,3857,3858,Two black and white dogs are playing together outside.,Two children and a black dog are playing out in the snow.,1
+1939,3859,3860,Three dogs running through water.,A black dog running through water.,0
+1940,3861,3862,"A woman sits alone against a brick wall	A woman is walking with a red bag.","A woman sits alone against a brick wall	A woman is walking with a red ba.",1
+1941,3863,3864,A brown dog carrying a stick in its mouth.,A dog swimming with a stick in its mouth.,0
+1942,3865,3866,A young woman leans over her plate at a meal.,A young woman,1
+1943,3867,3868,A person climbs up a snowy hill while their dog follows.,A person climbs a snowy hill while a black dog follows.,1
+1944,3869,3870,A brown dog sits on the beach.,A dog running on the beach,1
+1945,3871,3872,Scuba diver submerged in water.,The scuba diver is underwater.,1
+1946,3873,3874,The man is riding a bike down a dirt hill.,A trick bicyclist grinds down a handrail.,0
+1947,117,3875,A large gray dog is playing in the deep snow.,Four dogs playing in the snow.,0
+1948,3876,3877,A man riding his bike on the beach by the ocean.,A man walking his cow down the side of the road.,0
+1949,3878,3879,A dog in in a car.,A dog is biting a mop.,0
+1950,3880,3881,A dog with floppy ears walking towards the camera in the woods.,A child in front of his own reflection turning towards thecamera and smiling.,0
+1951,3882,3883,A brown dog is splashing water everywhere by shaking the water off of itself.,"A white dog is standing by a river shakinghimself dry.""",0
+1952,3884,3885,A black and white dog is running on the beach.,The black and brown dog is running through the snow.,0
+1953,3886,3887,Many middle eastern people are sitting in the back of a blue truck.,A group of people are riding in the back of a truck.,1
+1954,3888,3889,Person with two ski poles skiing down a snowy hill.,A person skiing down a snowy hill.,1
+1955,3890,3891,A woman is eating fish at a restaurant.,A woman eating a large fish in a restaurant.,1
+1956,3892,3893,A child and two dogs play in the water.,A child in red and blue floaties looking down at the water.,0
+1957,3894,3895,A skateboarder doing a trick on a stone wall.,A skateboarder riding up to a slope.,1
+1958,3896,3897,People are standing on an escalator moving up.,People ride up an escalator.,1
+1959,3898,3899,A lady is running her dog through an agility course.,Trainer runs her dog through training course with green pipe,0
+1960,3900,3901,The white and brown dog is shaking its ears.,The brown dog is running across the sand.,1
+1961,3902,3903,Some children are raising their hands and clapping.,Three children are playing soccer in the sand.,0
+1962,3904,3905,A man blowing a large bubble.,A man walking a large black horse.,0
+1963,3906,3907,Two people sit on a dock near the water.,Two people sit on the end of a dock in the middle of still water.,1
+1964,3908,3909,Hockey goal-keeper laying on the ice in front of net.,A hockey player is laying on the ice in front of the goal.,0
+1965,3910,3911,A skier wearing blue snow pants is flying through the air near a jump.,"A skier stands on his hands in the snow in front of amovie camera.""",0
+1966,3912,3913,The brown dog is running along a grassy pathway.,A brown dog is running along a grassy stretch divided by strings.,0
+1967,3914,3915,The girl is wearing a blue striped shirt and Rollerblades.,a man wearing a black and white shirt jumping on a dogs back,0
+1968,3916,3917,A tattooed man in black playing a white guitar and singing.,A woman in a black and white coat and earmuffs.,0
+1969,3918,3919,A dog running along the beach.,Boy and girl running along the beach.,0
+1970,3920,3921,A young man and woman sitting on a bench outside are kissing.,The man and woman sitting on a bench are kissing.,1
+1971,3922,3923,A brown dog is jumping up to catch a green strap in it's mouth.,A grey dog jumps to bite a green leash.,0
+1972,3924,3925,A black dog is running in the grass.,A black and a brown dog running in the grass.,0
+1973,3926,3927,A woman is sitting on a sidewalk with a cell phone at her ear.,A woman is riding her bicycle.,0
+1974,3928,3929,Three dogs play in a grassy field.,Some kids play in a field.,0
+1975,3930,3931,A young boy plays in a red ball pit.,A laughing boy lies on a pit of blue balls.,0
+1976,3932,3933,A surfer on a wave.,A surfer is riding a wave.,1
+1977,3934,3935,The skateboarder gets to the top of the ramp.,The skateboarder rides the pipe wall at a skater park.,0
+1978,3936,3937,Two men in a running contest.,Dogs in a race.,0
+1979,3938,3939,Two kids are walking on a path in the woods.,Two children walking down a path in the woods.,1
+1980,3940,3941,a brown and white dog is running on the grass.,The tan and black dog is running across the grass.,0
+1981,3942,3943,Two dogs run side-by-side on the grass.,Two dogs running on grass.,1
+1982,3944,3945,Two dogs are peeing at a red fire hydrant.,Two dogs are urinating on the red fire hydrant.,1
+1983,3946,3074,A rugby player in dark gear is carrying a light colored rugby ball with arm outstretched.,"A brown dog splashes in the waterwhile carrying a ball in it's mouth.""",0
+1984,3947,3948,Two people are walking through some water.,Two girls are walking by a tree in front of a brick building.,0
+1985,3949,3950,A dog splashing in the water.,A dog splashes in the murky water.,1
+1986,3951,3952,A group of people are walking down the sidewalk of a big city.,A group of people are riding in the back of a truck.,0
+1987,3953,3954,The dog is in the air above the grass.,The dog is laying on a bed with a blue sheet.,0
+1988,3955,3956,A black dog is running through some water.,A man in a football uniform is running with a football during a game.,0
+1989,3957,3958,Girl stands in subway waiting on something.,A girl stands in a dimly lit area.,1
+1990,3959,3960,The man is sitting with a little girl in the park.,The man is playing with the shaggy little dog.,0
+1991,3961,3962,"A large tan dog is running with a green item in its mouth	The tan dog is carrying a green squeak toy in its mouth.",A classroom of students watching a presentation.,0
+1992,3963,3964,A group of people in boats racing towards the shore.,"A biker is riding along a track element located with a woodedarea.""",0
+1993,3965,3966,A person is riding a skateboard in the air above a ramp.,A brown dog runs on the sand,0
+1994,3967,3968,A boy skateboards down the metal handrail at night.,"A medium sized brown dog is running through an open white woodedarea.""",0
+1995,3969,3970,A person is squeezing through an opening in the rock face.,The black and white dog swims with a brown object in its mouth.,0
+1996,3971,3972,Dog running towards camera with a ball in its mouth.,A little girl running at on the shore of a beach.,0
+1997,3973,3974,A young girl running on the beach.,The basketball player holds the ball.,0
+1998,3975,3976,A baseball player throws the ball.,A man in a maroon bathing suit swings on a rope on a lake.,0
+1999,3977,3978,A man is swinging on a rope over water.,a man wearing a white suit holding a newspaper walking through the streets.,0
+2000,3979,3980,A young girl dressed in a Minnie mouse outfit and an older woman walking down the sidewalk.,,0
